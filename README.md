@@ -7,6 +7,7 @@ A LoRA training set of 65 Halloween postcards from about 1900 to 1920, captioned
 ```
 halloween/    65 .jpg images, 65 .txt captions, metadata.csv
 configs/    AI Toolkit configs
+scripts/    make_card.py
 ```
 
 - `halloween-lora-cosine.yaml`: 4,000 steps, cosine learning rate schedule.
@@ -26,4 +27,14 @@ python run.py configs/halloween-lora-cosine.yaml
 
 49 images come from The Public Domain Review and 16 from Wikimedia Commons. `halloween/metadata.csv` lists the source page and license for each image.
 
-Trained weights will be attached to a release later.
+## Make a card
+
+The two checkpoints from the guide (cosine and constant_with_warmup, both at step 2,000) are in the [checkpoints-2000 release](https://github.com/MaanavD/flux3-klein-halloween-lora/releases/tag/checkpoints-2000). From the AI Toolkit root, with its venv active:
+
+```bash
+python /path/to/scripts/make_card.py --lora klein-vqx-shift4k-cosine_000002000.safetensors \
+  --prompt 'vqx, an old Halloween greeting card with a hand-drawn illustration of a black cat on a garden fence. The card has the clearly readable greeting "Happy Halloween" across the top.' \
+  --out card.jpg
+```
+
+It renders at 1024 x 1024, 50 steps, guidance 3.5, LoRA strength 1. Change `--strength`, `--seed` or `--steps` to taste.
