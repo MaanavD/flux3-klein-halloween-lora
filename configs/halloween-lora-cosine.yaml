@@ -1,6 +1,6 @@
 job: extension
 config:
-  name: klein-vqx-shift4k-cosine
+  name: halloween-lora-cosine
   process:
   - type: diffusion_trainer
     training_folder: /path/to/output

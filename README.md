@@ -9,8 +9,8 @@ halloween/    65 .jpg images, 65 .txt captions, metadata.csv
 configs/    AI Toolkit configs
 ```
 
-- `klein-vqx-shift4k-cosine.yaml`: 4,000 steps, cosine learning rate schedule.
-- `klein-vqx-shift4k-warmup.yaml`: the same, with a constant schedule after 200 warmup steps.
+- `halloween-lora-cosine.yaml`: 4,000 steps, cosine learning rate schedule.
+- `halloween-lora-warmup.yaml`: the same, with a constant schedule after 200 warmup steps.
 
 ## Train
 
@@ -19,7 +19,7 @@ configs/    AI Toolkit configs
 3. From the AI Toolkit root, run:
 
 ```
-python run.py configs/klein-vqx-shift4k-cosine.yaml
+python run.py configs/halloween-lora-cosine.yaml
 ```
 
 ## Image sources
