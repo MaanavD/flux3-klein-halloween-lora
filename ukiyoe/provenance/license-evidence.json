@@ -1,0 +1,36 @@
+{
+  "archive_url": "https://artic-api-data.s3.amazonaws.com/artic-api-data.tar.bz2",
+  "archive_sha256": "632d9b8796015c577ca54120a5466a8cd916ad24ff522b2650a9ef29573f7892",
+  "archive_last_modified": "2026-10-18T06:38:28Z",
+  "checked_on": "2026-10-26",
+  "policy_records": {
+    "artic-api-data/json/generic-pages/184.json": {
+      "id": 184,
+      "api_link": "https://api.artic.edu/api/v1/generic-pages/184",
+      "title": "Image Licensing",
+      "web_url": "https://www.artic.edu/image-licensing",
+      "source_updated_at": "2026-03-17T15:40:47-05:00",
+      "updated_at": "2026-10-16T23:40:06-05:00",
+      "timestamp": "2026-10-18T01:29:55-05:00"
+    },
+    "artic-api-data/json/generic-pages/405.json": {
+      "id": 405,
+      "api_link": "https://api.artic.edu/api/v1/generic-pages/405",
+      "title": "Open Access",
+      "web_url": "https://www.artic.edu/collection-information/open-access",
+      "source_updated_at": "2026-02-24T12:09:58-06:00",
+      "updated_at": "2026-10-16T23:40:14-05:00",
+      "timestamp": "2026-10-18T01:29:55-05:00"
+    },
+    "artic-api-data/json/generic-pages/410.json": {
+      "id": 410,
+      "api_link": "https://api.artic.edu/api/v1/generic-pages/410",
+      "title": "Open Access Images",
+      "web_url": "https://www.artic.edu/collection-information/open-access/open-access-images",
+      "source_updated_at": "2021-01-26T11:03:36-06:00",
+      "updated_at": "2026-10-16T23:40:31-05:00",
+      "timestamp": "2026-10-18T01:29:55-05:00"
+    }
+  },
+  "summary": "Museum policy makes public-domain collection images available under CC0 and permits commercial and noncommercial uses without additional museum permission. Artist, title, date, and institution attribution is requested."
+}

@@ -1,0 +1,2345 @@
+{
+  "00cc8c3e-1037-d963-5441-522674d1eab4": {
+    "id": "00cc8c3e-1037-d963-5441-522674d1eab4",
+    "api_link": "https://api.artic.edu/api/v1/images/00cc8c3e-1037-d963-5441-522674d1eab4",
+    "title": "158971",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/00cc8c3e-1037-d963-5441-522674d1eab4",
+    "width": 2544,
+    "height": 2073,
+    "artwork_ids": [
+      153569
+    ],
+    "source_updated_at": "2025-09-10T03:17:40-05:00",
+    "updated_at": "2026-10-01T17:43:07-05:00",
+    "timestamp": "2026-10-18T01:22:20-05:00"
+  },
+  "00f2a1db-f712-7bf8-2d84-016cf3256ec8": {
+    "id": "00f2a1db-f712-7bf8-2d84-016cf3256ec8",
+    "api_link": "https://api.artic.edu/api/v1/images/00f2a1db-f712-7bf8-2d84-016cf3256ec8",
+    "title": "AS_05644",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/00f2a1db-f712-7bf8-2d84-016cf3256ec8",
+    "width": 3000,
+    "height": 2198,
+    "artwork_ids": [
+      28262
+    ],
+    "source_updated_at": "2025-09-09T19:15:09-05:00",
+    "updated_at": "2026-10-01T18:09:02-05:00",
+    "timestamp": "2026-10-18T01:23:15-05:00"
+  },
+  "014f2dfb-b1a2-462f-f13a-3805d961c26d": {
+    "id": "014f2dfb-b1a2-462f-f13a-3805d961c26d",
+    "api_link": "https://api.artic.edu/api/v1/images/014f2dfb-b1a2-462f-f13a-3805d961c26d",
+    "title": "AS_11905",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/014f2dfb-b1a2-462f-f13a-3805d961c26d",
+    "width": 3000,
+    "height": 1398,
+    "artwork_ids": [
+      19061
+    ],
+    "source_updated_at": "2025-09-09T19:35:30-05:00",
+    "updated_at": "2026-10-01T18:11:46-05:00",
+    "timestamp": "2026-10-18T01:23:19-05:00"
+  },
+  "01fe02c3-59cd-1965-f331-bee0bfdfa9d1": {
+    "id": "01fe02c3-59cd-1965-f331-bee0bfdfa9d1",
+    "api_link": "https://api.artic.edu/api/v1/images/01fe02c3-59cd-1965-f331-bee0bfdfa9d1",
+    "title": "272616",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/01fe02c3-59cd-1965-f331-bee0bfdfa9d1",
+    "width": 3519,
+    "height": 2105,
+    "artwork_ids": [
+      272616
+    ],
+    "source_updated_at": "2025-09-10T10:30:04-05:00",
+    "updated_at": "2026-10-01T21:40:16-05:00",
+    "timestamp": "2026-10-18T01:28:08-05:00"
+  },
+  "062e650b-c66e-be4a-9dbf-4018c46b3de3": {
+    "id": "062e650b-c66e-be4a-9dbf-4018c46b3de3",
+    "api_link": "https://api.artic.edu/api/v1/images/062e650b-c66e-be4a-9dbf-4018c46b3de3",
+    "title": "AS_04004",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/062e650b-c66e-be4a-9dbf-4018c46b3de3",
+    "width": 2004,
+    "height": 2994,
+    "artwork_ids": [
+      88495
+    ],
+    "source_updated_at": "2025-09-09T19:15:27-05:00",
+    "updated_at": "2026-10-01T18:09:02-05:00",
+    "timestamp": "2026-10-18T01:23:15-05:00"
+  },
+  "08c45cd9-96bc-176a-48d2-2490308765b6": {
+    "id": "08c45cd9-96bc-176a-48d2-2490308765b6",
+    "api_link": "https://api.artic.edu/api/v1/images/08c45cd9-96bc-176a-48d2-2490308765b6",
+    "title": "AS_05673",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/08c45cd9-96bc-176a-48d2-2490308765b6",
+    "width": 3000,
+    "height": 2656,
+    "artwork_ids": [
+      192279
+    ],
+    "source_updated_at": "2025-09-09T19:15:08-05:00",
+    "updated_at": "2026-10-01T18:02:50-05:00",
+    "timestamp": "2026-10-18T01:23:05-05:00"
+  },
+  "105562ba-6a14-a8f9-2bca-fcc5f0a9da59": {
+    "id": "105562ba-6a14-a8f9-2bca-fcc5f0a9da59",
+    "api_link": "https://api.artic.edu/api/v1/images/105562ba-6a14-a8f9-2bca-fcc5f0a9da59",
+    "title": "AS_05364",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/105562ba-6a14-a8f9-2bca-fcc5f0a9da59",
+    "width": 1786,
+    "height": 3000,
+    "artwork_ids": [
+      8947
+    ],
+    "source_updated_at": "2025-09-09T19:15:11-05:00",
+    "updated_at": "2026-10-01T18:05:32-05:00",
+    "timestamp": "2026-10-18T01:23:10-05:00"
+  },
+  "1205db5a-0907-e23a-449e-0da6ed68e9d2": {
+    "id": "1205db5a-0907-e23a-449e-0da6ed68e9d2",
+    "api_link": "https://api.artic.edu/api/v1/images/1205db5a-0907-e23a-449e-0da6ed68e9d2",
+    "title": "1-1-14(01)_004",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/1205db5a-0907-e23a-449e-0da6ed68e9d2",
+    "width": 6409,
+    "height": 4785,
+    "artwork_ids": [
+      228298
+    ],
+    "source_updated_at": "2025-09-10T08:03:35-05:00",
+    "updated_at": "2026-10-01T21:32:10-05:00",
+    "timestamp": "2026-10-18T01:27:38-05:00"
+  },
+  "126fb1b6-17b4-f3d5-fc29-dd6672eabd12": {
+    "id": "126fb1b6-17b4-f3d5-fc29-dd6672eabd12",
+    "api_link": "https://api.artic.edu/api/v1/images/126fb1b6-17b4-f3d5-fc29-dd6672eabd12",
+    "title": "AS_05412",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/126fb1b6-17b4-f3d5-fc29-dd6672eabd12",
+    "width": 3000,
+    "height": 2109,
+    "artwork_ids": [
+      19112
+    ],
+    "source_updated_at": "2025-09-09T19:15:10-05:00",
+    "updated_at": "2026-10-01T18:05:30-05:00",
+    "timestamp": "2026-10-18T01:23:10-05:00"
+  },
+  "142691a3-8365-0e1f-32e4-71e0d5cee49d": {
+    "id": "142691a3-8365-0e1f-32e4-71e0d5cee49d",
+    "api_link": "https://api.artic.edu/api/v1/images/142691a3-8365-0e1f-32e4-71e0d5cee49d",
+    "title": "AS_05497",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/142691a3-8365-0e1f-32e4-71e0d5cee49d",
+    "width": 2247,
+    "height": 3000,
+    "artwork_ids": [
+      19502
+    ],
+    "source_updated_at": "2025-09-09T18:30:04-05:00",
+    "updated_at": "2026-10-01T18:01:22-05:00",
+    "timestamp": "2026-10-18T01:23:03-05:00"
+  },
+  "16a24625-11c0-fba9-b856-235aa05d5587": {
+    "id": "16a24625-11c0-fba9-b856-235aa05d5587",
+    "api_link": "https://api.artic.edu/api/v1/images/16a24625-11c0-fba9-b856-235aa05d5587",
+    "title": "AS_11197",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/16a24625-11c0-fba9-b856-235aa05d5587",
+    "width": 3000,
+    "height": 2033,
+    "artwork_ids": [
+      155329
+    ],
+    "source_updated_at": "2025-09-09T19:35:37-05:00",
+    "updated_at": "2026-10-01T18:13:03-05:00",
+    "timestamp": "2026-10-18T01:23:21-05:00"
+  },
+  "170eff5e-2dd4-0358-94e0-8575296c0717": {
+    "id": "170eff5e-2dd4-0358-94e0-8575296c0717",
+    "api_link": "https://api.artic.edu/api/v1/images/170eff5e-2dd4-0358-94e0-8575296c0717",
+    "title": "3-1-44_093",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/170eff5e-2dd4-0358-94e0-8575296c0717",
+    "width": 6561,
+    "height": 4775,
+    "artwork_ids": [
+      188948
+    ],
+    "source_updated_at": "2025-09-26T15:54:55-05:00",
+    "updated_at": "2026-10-01T21:31:38-05:00",
+    "timestamp": "2026-10-18T01:27:38-05:00"
+  },
+  "1b7f1df8-4997-bed1-4954-fe83d074e765": {
+    "id": "1b7f1df8-4997-bed1-4954-fe83d074e765",
+    "api_link": "https://api.artic.edu/api/v1/images/1b7f1df8-4997-bed1-4954-fe83d074e765",
+    "title": "AS_03279",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/1b7f1df8-4997-bed1-4954-fe83d074e765",
+    "width": 2376,
+    "height": 3624,
+    "artwork_ids": [
+      26513
+    ],
+    "source_updated_at": "2025-09-09T19:15:38-05:00",
+    "updated_at": "2026-10-01T18:03:15-05:00",
+    "timestamp": "2026-10-18T01:23:06-05:00"
+  },
+  "1c8b2e59-fb04-3770-3bcd-23bb8187ec3e": {
+    "id": "1c8b2e59-fb04-3770-3bcd-23bb8187ec3e",
+    "api_link": "https://api.artic.edu/api/v1/images/1c8b2e59-fb04-3770-3bcd-23bb8187ec3e",
+    "title": "AS_05509",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/1c8b2e59-fb04-3770-3bcd-23bb8187ec3e",
+    "width": 3000,
+    "height": 2165,
+    "artwork_ids": [
+      19564
+    ],
+    "source_updated_at": "2025-09-09T19:15:10-05:00",
+    "updated_at": "2026-10-01T18:04:56-05:00",
+    "timestamp": "2026-10-18T01:23:09-05:00"
+  },
+  "1d13d93c-d8db-a5a3-ca64-e2720e62a010": {
+    "id": "1d13d93c-d8db-a5a3-ca64-e2720e62a010",
+    "api_link": "https://api.artic.edu/api/v1/images/1d13d93c-d8db-a5a3-ca64-e2720e62a010",
+    "title": "1-1-35(01)_007",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/1d13d93c-d8db-a5a3-ca64-e2720e62a010",
+    "width": 6619,
+    "height": 4745,
+    "artwork_ids": [
+      228373
+    ],
+    "source_updated_at": "2025-09-26T15:52:13-05:00",
+    "updated_at": "2026-10-01T21:31:18-05:00",
+    "timestamp": "2026-10-18T01:27:37-05:00"
+  },
+  "1eddd64d-460d-cbf5-c77a-bf010b087835": {
+    "id": "1eddd64d-460d-cbf5-c77a-bf010b087835",
+    "api_link": "https://api.artic.edu/api/v1/images/1eddd64d-460d-cbf5-c77a-bf010b087835",
+    "title": "AS_05464",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/1eddd64d-460d-cbf5-c77a-bf010b087835",
+    "width": 3000,
+    "height": 1980,
+    "artwork_ids": [
+      29453
+    ],
+    "source_updated_at": "2025-09-09T19:15:10-05:00",
+    "updated_at": "2026-10-01T18:04:02-05:00",
+    "timestamp": "2026-10-18T01:23:07-05:00"
+  },
+  "1eb907ac-9f5e-e433-defb-a3f5d4091eab": {
+    "id": "1eb907ac-9f5e-e433-defb-a3f5d4091eab",
+    "api_link": "https://api.artic.edu/api/v1/images/1eb907ac-9f5e-e433-defb-a3f5d4091eab",
+    "title": "AS_05423",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/1eb907ac-9f5e-e433-defb-a3f5d4091eab",
+    "width": 3000,
+    "height": 2176,
+    "artwork_ids": [
+      19116
+    ],
+    "source_updated_at": "2025-09-09T19:15:10-05:00",
+    "updated_at": "2026-10-01T18:04:32-05:00",
+    "timestamp": "2026-10-18T01:23:08-05:00"
+  },
+  "1f1621a8-c025-2ddd-1569-fd19bea958f0": {
+    "id": "1f1621a8-c025-2ddd-1569-fd19bea958f0",
+    "api_link": "https://api.artic.edu/api/v1/images/1f1621a8-c025-2ddd-1569-fd19bea958f0",
+    "title": "158948",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/1f1621a8-c025-2ddd-1569-fd19bea958f0",
+    "width": 3276,
+    "height": 2496,
+    "artwork_ids": [
+      153557
+    ],
+    "source_updated_at": "2025-09-10T03:17:40-05:00",
+    "updated_at": "2026-10-01T17:42:28-05:00",
+    "timestamp": "2026-10-18T01:22:18-05:00"
+  },
+  "21e9ac10-06ca-4c58-4e7f-5e6a67ea02c8": {
+    "id": "21e9ac10-06ca-4c58-4e7f-5e6a67ea02c8",
+    "api_link": "https://api.artic.edu/api/v1/images/21e9ac10-06ca-4c58-4e7f-5e6a67ea02c8",
+    "title": "AS_05716",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/21e9ac10-06ca-4c58-4e7f-5e6a67ea02c8",
+    "width": 2354,
+    "height": 3000,
+    "artwork_ids": [
+      19939
+    ],
+    "source_updated_at": "2025-09-09T18:30:04-05:00",
+    "updated_at": "2026-10-01T18:00:50-05:00",
+    "timestamp": "2026-10-18T01:23:02-05:00"
+  },
+  "23ad9eea-241f-3af9-df38-875ba8825591": {
+    "id": "23ad9eea-241f-3af9-df38-875ba8825591",
+    "api_link": "https://api.artic.edu/api/v1/images/23ad9eea-241f-3af9-df38-875ba8825591",
+    "title": "AS_05459",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/23ad9eea-241f-3af9-df38-875ba8825591",
+    "width": 3000,
+    "height": 1991,
+    "artwork_ids": [
+      19016
+    ],
+    "source_updated_at": "2025-09-09T18:30:04-05:00",
+    "updated_at": "2026-10-01T18:02:04-05:00",
+    "timestamp": "2026-10-18T01:23:04-05:00"
+  },
+  "24afa5b7-75db-5a8f-da28-2b76de82b64f": {
+    "id": "24afa5b7-75db-5a8f-da28-2b76de82b64f",
+    "api_link": "https://api.artic.edu/api/v1/images/24afa5b7-75db-5a8f-da28-2b76de82b64f",
+    "title": "AS_05506",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/24afa5b7-75db-5a8f-da28-2b76de82b64f",
+    "width": 3000,
+    "height": 2173,
+    "artwork_ids": [
+      19554
+    ],
+    "source_updated_at": "2025-09-09T18:30:04-05:00",
+    "updated_at": "2026-10-01T18:02:13-05:00",
+    "timestamp": "2026-10-18T01:23:04-05:00"
+  },
+  "2801570d-46b6-4611-b809-72ac65fed727": {
+    "id": "2801570d-46b6-4611-b809-72ac65fed727",
+    "api_link": "https://api.artic.edu/api/v1/images/2801570d-46b6-4611-b809-72ac65fed727",
+    "title": "J19249-int",
+    "credit_line": "CC0 Public Domain Designation",
+    "iiif_url": "https://www.artic.edu/iiif/2/2801570d-46b6-4611-b809-72ac65fed727",
+    "width": 10981,
+    "height": 5223,
+    "artwork_ids": [
+      133147
+    ],
+    "source_updated_at": "2025-09-10T10:20:03-05:00",
+    "updated_at": "2026-10-01T22:20:34-05:00",
+    "timestamp": "2026-10-18T01:28:07-05:00"
+  },
+  "2921ee7d-fc23-6e92-1d7d-eb1de0270cdc": {
+    "id": "2921ee7d-fc23-6e92-1d7d-eb1de0270cdc",
+    "api_link": "https://api.artic.edu/api/v1/images/2921ee7d-fc23-6e92-1d7d-eb1de0270cdc",
+    "title": "AS_07587",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/2921ee7d-fc23-6e92-1d7d-eb1de0270cdc",
+    "width": 2456,
+    "height": 3528,
+    "artwork_ids": [
+      21983
+    ],
+    "source_updated_at": "2025-09-09T19:25:58-05:00",
+    "updated_at": "2026-10-01T18:04:53-05:00",
+    "timestamp": "2026-10-18T01:23:09-05:00"
+  },
+  "2a2ca365-6aa0-f637-05be-10c44fe7d3a9": {
+    "id": "2a2ca365-6aa0-f637-05be-10c44fe7d3a9",
+    "api_link": "https://api.artic.edu/api/v1/images/2a2ca365-6aa0-f637-05be-10c44fe7d3a9",
+    "title": "1-1-16(01)_015",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/2a2ca365-6aa0-f637-05be-10c44fe7d3a9",
+    "width": 6420,
+    "height": 4730,
+    "artwork_ids": [
+      228300
+    ],
+    "source_updated_at": "2025-09-26T15:51:48-05:00",
+    "updated_at": "2026-10-01T21:31:16-05:00",
+    "timestamp": "2026-10-18T01:27:37-05:00"
+  },
+  "2d5da627-23b0-d0f3-cd7a-94540f33f5dc": {
+    "id": "2d5da627-23b0-d0f3-cd7a-94540f33f5dc",
+    "api_link": "https://api.artic.edu/api/v1/images/2d5da627-23b0-d0f3-cd7a-94540f33f5dc",
+    "title": "AS_05200",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/2d5da627-23b0-d0f3-cd7a-94540f33f5dc",
+    "width": 3000,
+    "height": 1180,
+    "artwork_ids": [
+      87083
+    ],
+    "source_updated_at": "2025-09-09T19:15:12-05:00",
+    "updated_at": "2026-10-01T18:05:52-05:00",
+    "timestamp": "2026-10-18T01:23:10-05:00"
+  },
+  "2d9b82dd-45e0-4adc-3180-d345000a05ca": {
+    "id": "2d9b82dd-45e0-4adc-3180-d345000a05ca",
+    "api_link": "https://api.artic.edu/api/v1/images/2d9b82dd-45e0-4adc-3180-d345000a05ca",
+    "title": "158954",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/2d9b82dd-45e0-4adc-3180-d345000a05ca",
+    "width": 3072,
+    "height": 2442,
+    "artwork_ids": [
+      153560
+    ],
+    "source_updated_at": "2025-09-10T03:17:40-05:00",
+    "updated_at": "2026-10-01T17:42:44-05:00",
+    "timestamp": "2026-10-18T01:22:19-05:00"
+  },
+  "311f3d64-7fa6-1d06-cc4a-bf22eb4c3a9e": {
+    "id": "311f3d64-7fa6-1d06-cc4a-bf22eb4c3a9e",
+    "api_link": "https://api.artic.edu/api/v1/images/311f3d64-7fa6-1d06-cc4a-bf22eb4c3a9e",
+    "title": "2-3-1_009",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/311f3d64-7fa6-1d06-cc4a-bf22eb4c3a9e",
+    "width": 6354,
+    "height": 4692,
+    "artwork_ids": [
+      188950
+    ],
+    "source_updated_at": "2025-09-26T15:53:31-05:00",
+    "updated_at": "2026-10-01T21:31:29-05:00",
+    "timestamp": "2026-10-18T01:27:37-05:00"
+  },
+  "3433cd64-a985-f768-067f-614323b18529": {
+    "id": "3433cd64-a985-f768-067f-614323b18529",
+    "api_link": "https://api.artic.edu/api/v1/images/3433cd64-a985-f768-067f-614323b18529",
+    "title": "AS_05526",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/3433cd64-a985-f768-067f-614323b18529",
+    "width": 3000,
+    "height": 2104,
+    "artwork_ids": [
+      19525
+    ],
+    "source_updated_at": "2025-09-10T06:13:12-05:00",
+    "updated_at": "2026-10-01T18:09:28-05:00",
+    "timestamp": "2026-10-18T01:23:16-05:00"
+  },
+  "366884ab-f6a8-ee90-0f7d-aea7ac96039c": {
+    "id": "366884ab-f6a8-ee90-0f7d-aea7ac96039c",
+    "api_link": "https://api.artic.edu/api/v1/images/366884ab-f6a8-ee90-0f7d-aea7ac96039c",
+    "title": "AS_08654",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/366884ab-f6a8-ee90-0f7d-aea7ac96039c",
+    "width": 3000,
+    "height": 2042,
+    "artwork_ids": [
+      34824
+    ],
+    "source_updated_at": "2025-09-09T19:25:27-05:00",
+    "updated_at": "2026-10-01T18:05:31-05:00",
+    "timestamp": "2026-10-18T01:23:10-05:00"
+  },
+  "3709685f-1cd3-3a0e-f7be-0d181d53b30f": {
+    "id": "3709685f-1cd3-3a0e-f7be-0d181d53b30f",
+    "api_link": "https://api.artic.edu/api/v1/images/3709685f-1cd3-3a0e-f7be-0d181d53b30f",
+    "title": "AS_05518",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/3709685f-1cd3-3a0e-f7be-0d181d53b30f",
+    "width": 3000,
+    "height": 2133,
+    "artwork_ids": [
+      19521
+    ],
+    "source_updated_at": "2025-09-10T06:13:12-05:00",
+    "updated_at": "2026-10-01T18:02:58-05:00",
+    "timestamp": "2026-10-18T01:23:05-05:00"
+  },
+  "373d7991-e5bb-5a49-f3fd-4d1dbb0c7b99": {
+    "id": "373d7991-e5bb-5a49-f3fd-4d1dbb0c7b99",
+    "api_link": "https://api.artic.edu/api/v1/images/373d7991-e5bb-5a49-f3fd-4d1dbb0c7b99",
+    "title": "AS_05486",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/373d7991-e5bb-5a49-f3fd-4d1dbb0c7b99",
+    "width": 3000,
+    "height": 2144,
+    "artwork_ids": [
+      19621
+    ],
+    "source_updated_at": "2025-09-09T18:30:04-05:00",
+    "updated_at": "2026-10-01T18:01:54-05:00",
+    "timestamp": "2026-10-18T01:23:03-05:00"
+  },
+  "377f08a8-a185-97ed-0061-0e4b625d7d14": {
+    "id": "377f08a8-a185-97ed-0061-0e4b625d7d14",
+    "api_link": "https://api.artic.edu/api/v1/images/377f08a8-a185-97ed-0061-0e4b625d7d14",
+    "title": "AS_04809",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/377f08a8-a185-97ed-0061-0e4b625d7d14",
+    "width": 2152,
+    "height": 3000,
+    "artwork_ids": [
+      56240
+    ],
+    "source_updated_at": "2025-09-09T19:15:15-05:00",
+    "updated_at": "2026-10-01T18:05:17-05:00",
+    "timestamp": "2026-10-18T01:23:09-05:00"
+  },
+  "38c926f5-d0f4-2e91-8b61-dfc687f3720a": {
+    "id": "38c926f5-d0f4-2e91-8b61-dfc687f3720a",
+    "api_link": "https://api.artic.edu/api/v1/images/38c926f5-d0f4-2e91-8b61-dfc687f3720a",
+    "title": "187091",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/38c926f5-d0f4-2e91-8b61-dfc687f3720a",
+    "width": 2331,
+    "height": 1259,
+    "artwork_ids": [
+      215371
+    ],
+    "source_updated_at": "2025-09-10T03:15:56-05:00",
+    "updated_at": "2026-10-01T17:43:00-05:00",
+    "timestamp": "2026-10-18T01:22:19-05:00"
+  },
+  "39bce465-025c-fd9d-01b9-83efaad13af5": {
+    "id": "39bce465-025c-fd9d-01b9-83efaad13af5",
+    "api_link": "https://api.artic.edu/api/v1/images/39bce465-025c-fd9d-01b9-83efaad13af5",
+    "title": "AS_05235",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/39bce465-025c-fd9d-01b9-83efaad13af5",
+    "width": 3000,
+    "height": 2126,
+    "artwork_ids": [
+      19647
+    ],
+    "source_updated_at": "2025-09-09T19:15:12-05:00",
+    "updated_at": "2026-10-01T18:05:08-05:00",
+    "timestamp": "2026-10-18T01:23:09-05:00"
+  },
+  "39f733a8-6e3d-e912-b4f1-5cd047d6a633": {
+    "id": "39f733a8-6e3d-e912-b4f1-5cd047d6a633",
+    "api_link": "https://api.artic.edu/api/v1/images/39f733a8-6e3d-e912-b4f1-5cd047d6a633",
+    "title": "AS_05413",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/39f733a8-6e3d-e912-b4f1-5cd047d6a633",
+    "width": 3000,
+    "height": 2061,
+    "artwork_ids": [
+      194428
+    ],
+    "source_updated_at": "2025-09-09T19:15:10-05:00",
+    "updated_at": "2026-10-01T18:08:07-05:00",
+    "timestamp": "2026-10-18T01:23:14-05:00"
+  },
+  "3a462884-7620-8f58-5836-c9a6006b697f": {
+    "id": "3a462884-7620-8f58-5836-c9a6006b697f",
+    "api_link": "https://api.artic.edu/api/v1/images/3a462884-7620-8f58-5836-c9a6006b697f",
+    "title": "AS_05508",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/3a462884-7620-8f58-5836-c9a6006b697f",
+    "width": 3000,
+    "height": 2067,
+    "artwork_ids": [
+      19561
+    ],
+    "source_updated_at": "2025-09-09T18:30:04-05:00",
+    "updated_at": "2026-10-01T18:01:39-05:00",
+    "timestamp": "2026-10-18T01:23:03-05:00"
+  },
+  "3d2b829f-a7fc-646b-5689-0a91c631218a": {
+    "id": "3d2b829f-a7fc-646b-5689-0a91c631218a",
+    "api_link": "https://api.artic.edu/api/v1/images/3d2b829f-a7fc-646b-5689-0a91c631218a",
+    "title": "AS_05516",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/3d2b829f-a7fc-646b-5689-0a91c631218a",
+    "width": 3000,
+    "height": 2129,
+    "artwork_ids": [
+      19528
+    ],
+    "source_updated_at": "2025-09-10T06:13:12-05:00",
+    "updated_at": "2026-10-01T18:03:22-05:00",
+    "timestamp": "2026-10-18T01:23:06-05:00"
+  },
+  "40e85ce2-c8b2-f637-454b-0f24260181cb": {
+    "id": "40e85ce2-c8b2-f637-454b-0f24260181cb",
+    "api_link": "https://api.artic.edu/api/v1/images/40e85ce2-c8b2-f637-454b-0f24260181cb",
+    "title": "AS_05410",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/40e85ce2-c8b2-f637-454b-0f24260181cb",
+    "width": 2133,
+    "height": 3000,
+    "artwork_ids": [
+      19786
+    ],
+    "source_updated_at": "2025-09-09T19:15:10-05:00",
+    "updated_at": "2026-10-01T18:02:32-05:00",
+    "timestamp": "2026-10-18T01:23:04-05:00"
+  },
+  "410fd740-7eec-9ec2-52e3-aa147fabda5c": {
+    "id": "410fd740-7eec-9ec2-52e3-aa147fabda5c",
+    "api_link": "https://api.artic.edu/api/v1/images/410fd740-7eec-9ec2-52e3-aa147fabda5c",
+    "title": "272621",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/410fd740-7eec-9ec2-52e3-aa147fabda5c",
+    "width": 2984,
+    "height": 2371,
+    "artwork_ids": [
+      272621
+    ],
+    "source_updated_at": "2025-09-10T10:30:04-05:00",
+    "updated_at": "2026-10-01T21:40:17-05:00",
+    "timestamp": "2026-10-18T01:28:08-05:00"
+  },
+  "4178150a-3677-6349-55f5-3a618bcc4e5e": {
+    "id": "4178150a-3677-6349-55f5-3a618bcc4e5e",
+    "api_link": "https://api.artic.edu/api/v1/images/4178150a-3677-6349-55f5-3a618bcc4e5e",
+    "title": "158958",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/4178150a-3677-6349-55f5-3a618bcc4e5e",
+    "width": 2763,
+    "height": 2460,
+    "artwork_ids": [
+      153562
+    ],
+    "source_updated_at": "2025-09-10T03:17:40-05:00",
+    "updated_at": "2026-10-01T17:41:49-05:00",
+    "timestamp": "2026-10-18T01:22:17-05:00"
+  },
+  "41d3a886-19b1-06e6-f5ef-8d1900ab4ffa": {
+    "id": "41d3a886-19b1-06e6-f5ef-8d1900ab4ffa",
+    "api_link": "https://api.artic.edu/api/v1/images/41d3a886-19b1-06e6-f5ef-8d1900ab4ffa",
+    "title": "AS_05338",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/41d3a886-19b1-06e6-f5ef-8d1900ab4ffa",
+    "width": 2070,
+    "height": 3000,
+    "artwork_ids": [
+      19069
+    ],
+    "source_updated_at": "2025-09-09T19:15:11-05:00",
+    "updated_at": "2026-10-01T18:03:20-05:00",
+    "timestamp": "2026-10-18T01:23:06-05:00"
+  },
+  "41ef0eec-88ba-e7aa-3bc7-584f6ab63e7e": {
+    "id": "41ef0eec-88ba-e7aa-3bc7-584f6ab63e7e",
+    "api_link": "https://api.artic.edu/api/v1/images/41ef0eec-88ba-e7aa-3bc7-584f6ab63e7e",
+    "title": "AS_05460",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/41ef0eec-88ba-e7aa-3bc7-584f6ab63e7e",
+    "width": 3000,
+    "height": 1934,
+    "artwork_ids": [
+      44092
+    ],
+    "source_updated_at": "2025-09-09T19:15:10-05:00",
+    "updated_at": "2026-10-01T18:05:02-05:00",
+    "timestamp": "2026-10-18T01:23:09-05:00"
+  },
+  "43216442-e28f-3b79-4965-a834c26a8999": {
+    "id": "43216442-e28f-3b79-4965-a834c26a8999",
+    "api_link": "https://api.artic.edu/api/v1/images/43216442-e28f-3b79-4965-a834c26a8999",
+    "title": "AS_05511",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/43216442-e28f-3b79-4965-a834c26a8999",
+    "width": 3000,
+    "height": 2149,
+    "artwork_ids": [
+      19570
+    ],
+    "source_updated_at": "2025-09-10T06:13:12-05:00",
+    "updated_at": "2026-10-01T18:03:09-05:00",
+    "timestamp": "2026-10-18T01:23:06-05:00"
+  },
+  "434ef112-f39d-fbc2-9b82-50647d43e47b": {
+    "id": "434ef112-f39d-fbc2-9b82-50647d43e47b",
+    "api_link": "https://api.artic.edu/api/v1/images/434ef112-f39d-fbc2-9b82-50647d43e47b",
+    "title": "159946",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/434ef112-f39d-fbc2-9b82-50647d43e47b",
+    "width": 2892,
+    "height": 1432,
+    "artwork_ids": [
+      204049
+    ],
+    "source_updated_at": "2025-09-10T03:17:37-05:00",
+    "updated_at": "2026-10-01T17:42:44-05:00",
+    "timestamp": "2026-10-18T01:22:19-05:00"
+  },
+  "4369950f-f775-ea87-6c5b-72abbd663fb1": {
+    "id": "4369950f-f775-ea87-6c5b-72abbd663fb1",
+    "api_link": "https://api.artic.edu/api/v1/images/4369950f-f775-ea87-6c5b-72abbd663fb1",
+    "title": "J32737-int",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/4369950f-f775-ea87-6c5b-72abbd663fb1",
+    "width": 10080,
+    "height": 7007,
+    "artwork_ids": [
+      19557
+    ],
+    "source_updated_at": "2026-09-23T13:30:10-05:00",
+    "updated_at": "2026-10-01T22:41:08-05:00",
+    "timestamp": "2026-10-18T01:28:30-05:00"
+  },
+  "448a9313-b344-dcd7-3621-c1a1fbfa6dc0": {
+    "id": "448a9313-b344-dcd7-3621-c1a1fbfa6dc0",
+    "api_link": "https://api.artic.edu/api/v1/images/448a9313-b344-dcd7-3621-c1a1fbfa6dc0",
+    "title": "J32712-int",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/448a9313-b344-dcd7-3621-c1a1fbfa6dc0",
+    "width": 6806,
+    "height": 10574,
+    "artwork_ids": [
+      88951
+    ],
+    "source_updated_at": "2026-09-23T13:30:10-05:00",
+    "updated_at": "2026-10-01T21:48:20-05:00",
+    "timestamp": "2026-10-18T01:28:30-05:00"
+  },
+  "44a3c0c6-ff20-df65-ee22-41c346b6b036": {
+    "id": "44a3c0c6-ff20-df65-ee22-41c346b6b036",
+    "api_link": "https://api.artic.edu/api/v1/images/44a3c0c6-ff20-df65-ee22-41c346b6b036",
+    "title": "160258",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/44a3c0c6-ff20-df65-ee22-41c346b6b036",
+    "width": 2674,
+    "height": 1227,
+    "artwork_ids": [
+      204069
+    ],
+    "source_updated_at": "2025-09-10T03:17:37-05:00",
+    "updated_at": "2026-10-01T17:42:58-05:00",
+    "timestamp": "2026-10-18T01:22:19-05:00"
+  },
+  "457b6b21-86b0-877c-cbc0-4386c3c1416a": {
+    "id": "457b6b21-86b0-877c-cbc0-4386c3c1416a",
+    "api_link": "https://api.artic.edu/api/v1/images/457b6b21-86b0-877c-cbc0-4386c3c1416a",
+    "title": "199956",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/457b6b21-86b0-877c-cbc0-4386c3c1416a",
+    "width": 2291,
+    "height": 3064,
+    "artwork_ids": [
+      153568
+    ],
+    "source_updated_at": "2025-09-10T03:15:06-05:00",
+    "updated_at": "2026-10-01T17:42:56-05:00",
+    "timestamp": "2026-10-18T01:22:19-05:00"
+  },
+  "464c07b6-98b7-0962-d2da-e561f48a3c7b": {
+    "id": "464c07b6-98b7-0962-d2da-e561f48a3c7b",
+    "api_link": "https://api.artic.edu/api/v1/images/464c07b6-98b7-0962-d2da-e561f48a3c7b",
+    "title": "AS_05426",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/464c07b6-98b7-0962-d2da-e561f48a3c7b",
+    "width": 3000,
+    "height": 2042,
+    "artwork_ids": [
+      19012
+    ],
+    "source_updated_at": "2025-09-09T19:15:10-05:00",
+    "updated_at": "2026-10-01T18:08:02-05:00",
+    "timestamp": "2026-10-18T01:23:14-05:00"
+  },
+  "46b2f76c-430d-5819-415d-4186c02834ce": {
+    "id": "46b2f76c-430d-5819-415d-4186c02834ce",
+    "api_link": "https://api.artic.edu/api/v1/images/46b2f76c-430d-5819-415d-4186c02834ce",
+    "title": "AS_05519",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/46b2f76c-430d-5819-415d-4186c02834ce",
+    "width": 3000,
+    "height": 2198,
+    "artwork_ids": [
+      19518
+    ],
+    "source_updated_at": "2025-09-09T18:30:04-05:00",
+    "updated_at": "2026-10-01T18:01:36-05:00",
+    "timestamp": "2026-10-18T01:23:03-05:00"
+  },
+  "47f1cd09-d6cd-4f34-6a31-0720a548d94d": {
+    "id": "47f1cd09-d6cd-4f34-6a31-0720a548d94d",
+    "api_link": "https://api.artic.edu/api/v1/images/47f1cd09-d6cd-4f34-6a31-0720a548d94d",
+    "title": "AS_05665",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/47f1cd09-d6cd-4f34-6a31-0720a548d94d",
+    "width": 3000,
+    "height": 2378,
+    "artwork_ids": [
+      192277
+    ],
+    "source_updated_at": "2025-09-09T19:15:08-05:00",
+    "updated_at": "2026-10-01T18:04:50-05:00",
+    "timestamp": "2026-10-18T01:23:09-05:00"
+  },
+  "4891032d-b999-c193-9c19-eb8ec5330fa9": {
+    "id": "4891032d-b999-c193-9c19-eb8ec5330fa9",
+    "api_link": "https://api.artic.edu/api/v1/images/4891032d-b999-c193-9c19-eb8ec5330fa9",
+    "title": "AS_05668",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/4891032d-b999-c193-9c19-eb8ec5330fa9",
+    "width": 3000,
+    "height": 2272,
+    "artwork_ids": [
+      192278
+    ],
+    "source_updated_at": "2025-09-09T19:15:08-05:00",
+    "updated_at": "2026-10-01T18:05:38-05:00",
+    "timestamp": "2026-10-18T01:23:10-05:00"
+  },
+  "4a22c2c9-f6d1-d349-fbbb-9631ab2821f5": {
+    "id": "4a22c2c9-f6d1-d349-fbbb-9631ab2821f5",
+    "api_link": "https://api.artic.edu/api/v1/images/4a22c2c9-f6d1-d349-fbbb-9631ab2821f5",
+    "title": "AS_10630",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/4a22c2c9-f6d1-d349-fbbb-9631ab2821f5",
+    "width": 1711,
+    "height": 3000,
+    "artwork_ids": [
+      6816
+    ],
+    "source_updated_at": "2025-09-09T19:25:04-05:00",
+    "updated_at": "2026-10-01T18:14:29-05:00",
+    "timestamp": "2026-10-18T01:23:23-05:00"
+  },
+  "4dab5c94-70a2-8796-c369-2d11f159ea74": {
+    "id": "4dab5c94-70a2-8796-c369-2d11f159ea74",
+    "api_link": "https://api.artic.edu/api/v1/images/4dab5c94-70a2-8796-c369-2d11f159ea74",
+    "title": "AS_05485",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/4dab5c94-70a2-8796-c369-2d11f159ea74",
+    "width": 3000,
+    "height": 2192,
+    "artwork_ids": [
+      19586
+    ],
+    "source_updated_at": "2025-09-09T19:15:10-05:00",
+    "updated_at": "2026-10-01T18:07:17-05:00",
+    "timestamp": "2026-10-18T01:23:13-05:00"
+  },
+  "4e206d00-bd0f-40a4-b587-356353eff310": {
+    "id": "4e206d00-bd0f-40a4-b587-356353eff310",
+    "api_link": "https://api.artic.edu/api/v1/images/4e206d00-bd0f-40a4-b587-356353eff310",
+    "title": "IM001163",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/4e206d00-bd0f-40a4-b587-356353eff310",
+    "width": 3000,
+    "height": 1190,
+    "artwork_ids": [
+      130424,
+      130423
+    ],
+    "source_updated_at": "2025-09-09T21:11:17-05:00",
+    "updated_at": "2026-10-01T18:21:14-05:00",
+    "timestamp": "2026-10-18T01:23:33-05:00"
+  },
+  "4e5b10e4-d1d1-8284-c27f-572136d0580f": {
+    "id": "4e5b10e4-d1d1-8284-c27f-572136d0580f",
+    "api_link": "https://api.artic.edu/api/v1/images/4e5b10e4-d1d1-8284-c27f-572136d0580f",
+    "title": "AS_09710",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/4e5b10e4-d1d1-8284-c27f-572136d0580f",
+    "width": 2093,
+    "height": 3000,
+    "artwork_ids": [
+      195693
+    ],
+    "source_updated_at": "2025-09-09T19:25:06-05:00",
+    "updated_at": "2026-10-01T18:04:18-05:00",
+    "timestamp": "2026-10-18T01:23:08-05:00"
+  },
+  "4e9cb25c-993c-07b6-297e-0e14f3ef97a4": {
+    "id": "4e9cb25c-993c-07b6-297e-0e14f3ef97a4",
+    "api_link": "https://api.artic.edu/api/v1/images/4e9cb25c-993c-07b6-297e-0e14f3ef97a4",
+    "title": "160307",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/4e9cb25c-993c-07b6-297e-0e14f3ef97a4",
+    "width": 3066,
+    "height": 1387,
+    "artwork_ids": [
+      153563
+    ],
+    "source_updated_at": "2025-09-10T03:17:37-05:00",
+    "updated_at": "2026-10-01T17:42:55-05:00",
+    "timestamp": "2026-10-18T01:22:19-05:00"
+  },
+  "4ef99926-9ecf-2daa-e901-7d477c254014": {
+    "id": "4ef99926-9ecf-2daa-e901-7d477c254014",
+    "api_link": "https://api.artic.edu/api/v1/images/4ef99926-9ecf-2daa-e901-7d477c254014",
+    "title": "AS_05481",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/4ef99926-9ecf-2daa-e901-7d477c254014",
+    "width": 3000,
+    "height": 2089,
+    "artwork_ids": [
+      19600
+    ],
+    "source_updated_at": "2025-09-09T18:30:04-05:00",
+    "updated_at": "2026-10-01T18:01:41-05:00",
+    "timestamp": "2026-10-18T01:23:03-05:00"
+  },
+  "4f35beee-daca-799a-d6c8-a14ea000abef": {
+    "id": "4f35beee-daca-799a-d6c8-a14ea000abef",
+    "api_link": "https://api.artic.edu/api/v1/images/4f35beee-daca-799a-d6c8-a14ea000abef",
+    "title": "272607",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/4f35beee-daca-799a-d6c8-a14ea000abef",
+    "width": 3678,
+    "height": 2421,
+    "artwork_ids": [
+      272607
+    ],
+    "source_updated_at": "2025-09-10T10:30:04-05:00",
+    "updated_at": "2026-10-01T21:40:15-05:00",
+    "timestamp": "2026-10-18T01:28:08-05:00"
+  },
+  "5016bc9c-81c9-6fe6-afbc-0c5de5582be4": {
+    "id": "5016bc9c-81c9-6fe6-afbc-0c5de5582be4",
+    "api_link": "https://api.artic.edu/api/v1/images/5016bc9c-81c9-6fe6-afbc-0c5de5582be4",
+    "title": "272608",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/5016bc9c-81c9-6fe6-afbc-0c5de5582be4",
+    "width": 3446,
+    "height": 2572,
+    "artwork_ids": [
+      272608
+    ],
+    "source_updated_at": "2025-09-10T10:30:04-05:00",
+    "updated_at": "2026-10-01T21:40:15-05:00",
+    "timestamp": "2026-10-18T01:28:08-05:00"
+  },
+  "50b325dd-a15c-594d-d437-2513edfcb1e0": {
+    "id": "50b325dd-a15c-594d-d437-2513edfcb1e0",
+    "api_link": "https://api.artic.edu/api/v1/images/50b325dd-a15c-594d-d437-2513edfcb1e0",
+    "title": "AS_05510",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/50b325dd-a15c-594d-d437-2513edfcb1e0",
+    "width": 3000,
+    "height": 2187,
+    "artwork_ids": [
+      19567
+    ],
+    "source_updated_at": "2025-09-09T18:30:04-05:00",
+    "updated_at": "2026-10-01T18:01:15-05:00",
+    "timestamp": "2026-10-18T01:23:03-05:00"
+  },
+  "51d27167-aeea-46db-b4de-fa28c0441d61": {
+    "id": "51d27167-aeea-46db-b4de-fa28c0441d61",
+    "api_link": "https://api.artic.edu/api/v1/images/51d27167-aeea-46db-b4de-fa28c0441d61",
+    "title": "2-2-13_019",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/51d27167-aeea-46db-b4de-fa28c0441d61",
+    "width": 6257,
+    "height": 4746,
+    "artwork_ids": [
+      188954
+    ],
+    "source_updated_at": "2025-09-10T08:03:49-05:00",
+    "updated_at": "2026-10-01T21:31:26-05:00",
+    "timestamp": "2026-10-18T01:27:37-05:00"
+  },
+  "536d5e94-e2b3-4370-11e7-bdfc52b1210f": {
+    "id": "536d5e94-e2b3-4370-11e7-bdfc52b1210f",
+    "api_link": "https://api.artic.edu/api/v1/images/536d5e94-e2b3-4370-11e7-bdfc52b1210f",
+    "title": "AS_09711",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/536d5e94-e2b3-4370-11e7-bdfc52b1210f",
+    "width": 2105,
+    "height": 3000,
+    "artwork_ids": [
+      195692
+    ],
+    "source_updated_at": "2025-09-09T19:25:06-05:00",
+    "updated_at": "2026-10-01T18:02:33-05:00",
+    "timestamp": "2026-10-18T01:23:05-05:00"
+  },
+  "542df321-b5d0-5549-8c3a-2cb5d778352b": {
+    "id": "542df321-b5d0-5549-8c3a-2cb5d778352b",
+    "api_link": "https://api.artic.edu/api/v1/images/542df321-b5d0-5549-8c3a-2cb5d778352b",
+    "title": "158950",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/542df321-b5d0-5549-8c3a-2cb5d778352b",
+    "width": 2604,
+    "height": 2001,
+    "artwork_ids": [
+      153558
+    ],
+    "source_updated_at": "2025-09-10T03:17:40-05:00",
+    "updated_at": "2026-10-01T17:42:05-05:00",
+    "timestamp": "2026-10-18T01:22:18-05:00"
+  },
+  "54bc5887-26fb-ac0c-1747-a5e7ce9f1629": {
+    "id": "54bc5887-26fb-ac0c-1747-a5e7ce9f1629",
+    "api_link": "https://api.artic.edu/api/v1/images/54bc5887-26fb-ac0c-1747-a5e7ce9f1629",
+    "title": "AS_05227",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/54bc5887-26fb-ac0c-1747-a5e7ce9f1629",
+    "width": 3000,
+    "height": 2151,
+    "artwork_ids": [
+      19653
+    ],
+    "source_updated_at": "2025-09-09T19:15:12-05:00",
+    "updated_at": "2026-10-01T18:03:51-05:00",
+    "timestamp": "2026-10-18T01:23:07-05:00"
+  },
+  "561e5e61-ef7b-73d5-6453-1fd98f620742": {
+    "id": "561e5e61-ef7b-73d5-6453-1fd98f620742",
+    "api_link": "https://api.artic.edu/api/v1/images/561e5e61-ef7b-73d5-6453-1fd98f620742",
+    "title": "AS_07792",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/561e5e61-ef7b-73d5-6453-1fd98f620742",
+    "width": 2097,
+    "height": 3000,
+    "artwork_ids": [
+      22728
+    ],
+    "source_updated_at": "2025-09-09T19:25:55-05:00",
+    "updated_at": "2026-10-01T18:09:04-05:00",
+    "timestamp": "2026-10-18T01:23:15-05:00"
+  },
+  "58c7e46d-9119-eff0-feb6-85d0c03827a7": {
+    "id": "58c7e46d-9119-eff0-feb6-85d0c03827a7",
+    "api_link": "https://api.artic.edu/api/v1/images/58c7e46d-9119-eff0-feb6-85d0c03827a7",
+    "title": "1-1-19_038",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/58c7e46d-9119-eff0-feb6-85d0c03827a7",
+    "width": 6391,
+    "height": 4750,
+    "artwork_ids": [
+      228303
+    ],
+    "source_updated_at": "2025-09-26T15:51:51-05:00",
+    "updated_at": "2026-10-01T21:31:16-05:00",
+    "timestamp": "2026-10-18T01:27:37-05:00"
+  },
+  "58962d76-c34a-5ebe-c798-f18f0846298d": {
+    "id": "58962d76-c34a-5ebe-c798-f18f0846298d",
+    "api_link": "https://api.artic.edu/api/v1/images/58962d76-c34a-5ebe-c798-f18f0846298d",
+    "title": "AS_05695",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/58962d76-c34a-5ebe-c798-f18f0846298d",
+    "width": 3000,
+    "height": 2394,
+    "artwork_ids": [
+      192276
+    ],
+    "source_updated_at": "2025-09-09T19:15:08-05:00",
+    "updated_at": "2026-10-01T18:09:02-05:00",
+    "timestamp": "2026-10-18T01:23:15-05:00"
+  },
+  "58ee0f74-c18a-e9d1-5a3e-e47ce05e8831": {
+    "id": "58ee0f74-c18a-e9d1-5a3e-e47ce05e8831",
+    "api_link": "https://api.artic.edu/api/v1/images/58ee0f74-c18a-e9d1-5a3e-e47ce05e8831",
+    "title": "1-1-30_015",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/58ee0f74-c18a-e9d1-5a3e-e47ce05e8831",
+    "width": 6323,
+    "height": 4760,
+    "artwork_ids": [
+      228369
+    ],
+    "source_updated_at": "2025-09-26T15:52:08-05:00",
+    "updated_at": "2026-10-01T21:31:17-05:00",
+    "timestamp": "2026-10-18T01:27:37-05:00"
+  },
+  "5a840a59-41de-8287-2ad7-9672cd206a8a": {
+    "id": "5a840a59-41de-8287-2ad7-9672cd206a8a",
+    "api_link": "https://api.artic.edu/api/v1/images/5a840a59-41de-8287-2ad7-9672cd206a8a",
+    "title": "272628",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/5a840a59-41de-8287-2ad7-9672cd206a8a",
+    "width": 1817,
+    "height": 1264,
+    "artwork_ids": [
+      272628
+    ],
+    "source_updated_at": "2025-09-10T10:30:03-05:00",
+    "updated_at": "2026-10-01T21:40:17-05:00",
+    "timestamp": "2026-10-18T01:28:08-05:00"
+  },
+  "5e2c9737-4c61-51db-c7bf-579930191d6a": {
+    "id": "5e2c9737-4c61-51db-c7bf-579930191d6a",
+    "api_link": "https://api.artic.edu/api/v1/images/5e2c9737-4c61-51db-c7bf-579930191d6a",
+    "title": "AS_11246",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/5e2c9737-4c61-51db-c7bf-579930191d6a",
+    "width": 3000,
+    "height": 2283,
+    "artwork_ids": [
+      88506
+    ],
+    "source_updated_at": "2025-09-09T19:35:37-05:00",
+    "updated_at": "2026-10-01T18:11:31-05:00",
+    "timestamp": "2026-10-18T01:23:18-05:00"
+  },
+  "5e3f7d4f-c862-1489-55ae-783756b6b485": {
+    "id": "5e3f7d4f-c862-1489-55ae-783756b6b485",
+    "api_link": "https://api.artic.edu/api/v1/images/5e3f7d4f-c862-1489-55ae-783756b6b485",
+    "title": "J37568-int",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/5e3f7d4f-c862-1489-55ae-783756b6b485",
+    "width": 6793,
+    "height": 9779,
+    "artwork_ids": [
+      86971
+    ],
+    "source_updated_at": "2026-09-23T13:30:07-05:00",
+    "updated_at": "2026-10-01T22:23:43-05:00",
+    "timestamp": "2026-10-18T01:28:30-05:00"
+  },
+  "5ed4ce9f-c3cd-85cb-84bb-da631ae38ca8": {
+    "id": "5ed4ce9f-c3cd-85cb-84bb-da631ae38ca8",
+    "api_link": "https://api.artic.edu/api/v1/images/5ed4ce9f-c3cd-85cb-84bb-da631ae38ca8",
+    "title": "AS_05512",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/5ed4ce9f-c3cd-85cb-84bb-da631ae38ca8",
+    "width": 3000,
+    "height": 2145,
+    "artwork_ids": [
+      19573
+    ],
+    "source_updated_at": "2025-09-10T06:13:12-05:00",
+    "updated_at": "2026-10-01T18:06:35-05:00",
+    "timestamp": "2026-10-18T01:23:12-05:00"
+  },
+  "5ffae704-216c-06b3-1de9-697f2b7fcd82": {
+    "id": "5ffae704-216c-06b3-1de9-697f2b7fcd82",
+    "api_link": "https://api.artic.edu/api/v1/images/5ffae704-216c-06b3-1de9-697f2b7fcd82",
+    "title": "AS_09714",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/5ffae704-216c-06b3-1de9-697f2b7fcd82",
+    "width": 2051,
+    "height": 3000,
+    "artwork_ids": [
+      154083
+    ],
+    "source_updated_at": "2025-09-09T19:25:06-05:00",
+    "updated_at": "2026-10-01T18:05:20-05:00",
+    "timestamp": "2026-10-18T01:23:09-05:00"
+  },
+  "607ff8ac-8d1b-170d-7b35-d4004017cb66": {
+    "id": "607ff8ac-8d1b-170d-7b35-d4004017cb66",
+    "api_link": "https://api.artic.edu/api/v1/images/607ff8ac-8d1b-170d-7b35-d4004017cb66",
+    "title": "AS_05515",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/607ff8ac-8d1b-170d-7b35-d4004017cb66",
+    "width": 3000,
+    "height": 2238,
+    "artwork_ids": [
+      19584
+    ],
+    "source_updated_at": "2025-09-10T06:13:12-05:00",
+    "updated_at": "2026-10-01T18:06:31-05:00",
+    "timestamp": "2026-10-18T01:23:12-05:00"
+  },
+  "60ac020a-d3a8-a6fb-4ad7-98a189b76761": {
+    "id": "60ac020a-d3a8-a6fb-4ad7-98a189b76761",
+    "api_link": "https://api.artic.edu/api/v1/images/60ac020a-d3a8-a6fb-4ad7-98a189b76761",
+    "title": "158952",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/60ac020a-d3a8-a6fb-4ad7-98a189b76761",
+    "width": 3213,
+    "height": 2541,
+    "artwork_ids": [
+      153559
+    ],
+    "source_updated_at": "2025-09-10T03:17:40-05:00",
+    "updated_at": "2026-10-01T17:43:19-05:00",
+    "timestamp": "2026-10-18T01:22:20-05:00"
+  },
+  "61f745dc-0ada-b681-4d26-5e2b6a82d54f": {
+    "id": "61f745dc-0ada-b681-4d26-5e2b6a82d54f",
+    "api_link": "https://api.artic.edu/api/v1/images/61f745dc-0ada-b681-4d26-5e2b6a82d54f",
+    "title": "IM044192",
+    "credit_line": "CC0 Public Domain Designation",
+    "iiif_url": "https://www.artic.edu/iiif/2/61f745dc-0ada-b681-4d26-5e2b6a82d54f",
+    "width": 7899,
+    "height": 5924,
+    "artwork_ids": [
+      204055
+    ],
+    "source_updated_at": "2025-09-09T22:20:20-05:00",
+    "updated_at": "2026-10-01T18:44:38-05:00",
+    "timestamp": "2026-10-18T01:24:12-05:00"
+  },
+  "62200842-92e0-7071-0622-2bff682c8098": {
+    "id": "62200842-92e0-7071-0622-2bff682c8098",
+    "api_link": "https://api.artic.edu/api/v1/images/62200842-92e0-7071-0622-2bff682c8098",
+    "title": "AS_05229",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/62200842-92e0-7071-0622-2bff682c8098",
+    "width": 3000,
+    "height": 2130,
+    "artwork_ids": [
+      19633
+    ],
+    "source_updated_at": "2025-09-09T19:15:12-05:00",
+    "updated_at": "2026-10-01T18:03:26-05:00",
+    "timestamp": "2026-10-18T01:23:06-05:00"
+  },
+  "62c3ec8a-1ba4-7a95-8628-4866e5935fd8": {
+    "id": "62c3ec8a-1ba4-7a95-8628-4866e5935fd8",
+    "api_link": "https://api.artic.edu/api/v1/images/62c3ec8a-1ba4-7a95-8628-4866e5935fd8",
+    "title": "AS_05522",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/62c3ec8a-1ba4-7a95-8628-4866e5935fd8",
+    "width": 3000,
+    "height": 2182,
+    "artwork_ids": [
+      19509
+    ],
+    "source_updated_at": "2025-09-09T18:30:04-05:00",
+    "updated_at": "2026-10-01T18:01:00-05:00",
+    "timestamp": "2026-10-18T01:23:02-05:00"
+  },
+  "6364fdda-9f72-5ebd-b340-828181d3b5e2": {
+    "id": "6364fdda-9f72-5ebd-b340-828181d3b5e2",
+    "api_link": "https://api.artic.edu/api/v1/images/6364fdda-9f72-5ebd-b340-828181d3b5e2",
+    "title": "AS_05457",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/6364fdda-9f72-5ebd-b340-828181d3b5e2",
+    "width": 3000,
+    "height": 1879,
+    "artwork_ids": [
+      44098
+    ],
+    "source_updated_at": "2025-09-09T18:30:04-05:00",
+    "updated_at": "2026-10-01T18:01:56-05:00",
+    "timestamp": "2026-10-18T01:23:03-05:00"
+  },
+  "63ed2ae9-e03d-68e7-a8e5-dcb23cbb786d": {
+    "id": "63ed2ae9-e03d-68e7-a8e5-dcb23cbb786d",
+    "api_link": "https://api.artic.edu/api/v1/images/63ed2ae9-e03d-68e7-a8e5-dcb23cbb786d",
+    "title": "AS_03138",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/63ed2ae9-e03d-68e7-a8e5-dcb23cbb786d",
+    "width": 2502,
+    "height": 3624,
+    "artwork_ids": [
+      26626
+    ],
+    "source_updated_at": "2025-09-09T19:15:41-05:00",
+    "updated_at": "2026-10-01T18:04:04-05:00",
+    "timestamp": "2026-10-18T01:23:07-05:00"
+  },
+  "69ae412c-18ba-e943-9092-1928e048656d": {
+    "id": "69ae412c-18ba-e943-9092-1928e048656d",
+    "api_link": "https://api.artic.edu/api/v1/images/69ae412c-18ba-e943-9092-1928e048656d",
+    "title": "AS_05424",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/69ae412c-18ba-e943-9092-1928e048656d",
+    "width": 3000,
+    "height": 2113,
+    "artwork_ids": [
+      117401
+    ],
+    "source_updated_at": "2025-09-09T19:15:10-05:00",
+    "updated_at": "2026-10-01T18:04:43-05:00",
+    "timestamp": "2026-10-18T01:23:08-05:00"
+  },
+  "69c2bda0-dd52-ca61-cc74-ed64b3a87ba9": {
+    "id": "69c2bda0-dd52-ca61-cc74-ed64b3a87ba9",
+    "api_link": "https://api.artic.edu/api/v1/images/69c2bda0-dd52-ca61-cc74-ed64b3a87ba9",
+    "title": "AS_05462",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/69c2bda0-dd52-ca61-cc74-ed64b3a87ba9",
+    "width": 3000,
+    "height": 2198,
+    "artwork_ids": [
+      79373
+    ],
+    "source_updated_at": "2025-09-09T19:15:10-05:00",
+    "updated_at": "2026-10-01T18:02:35-05:00",
+    "timestamp": "2026-10-18T01:23:05-05:00"
+  },
+  "6a840c7f-99c4-5abd-20d4-bf3419cbbb36": {
+    "id": "6a840c7f-99c4-5abd-20d4-bf3419cbbb36",
+    "api_link": "https://api.artic.edu/api/v1/images/6a840c7f-99c4-5abd-20d4-bf3419cbbb36",
+    "title": "2-2-16_005",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/6a840c7f-99c4-5abd-20d4-bf3419cbbb36",
+    "width": 6450,
+    "height": 4705,
+    "artwork_ids": [
+      188952
+    ],
+    "source_updated_at": "2025-09-10T08:03:49-05:00",
+    "updated_at": "2026-10-01T21:31:26-05:00",
+    "timestamp": "2026-10-18T01:27:37-05:00"
+  },
+  "6ee341f8-c2ab-6c31-f352-8fd1e417d5c6": {
+    "id": "6ee341f8-c2ab-6c31-f352-8fd1e417d5c6",
+    "api_link": "https://api.artic.edu/api/v1/images/6ee341f8-c2ab-6c31-f352-8fd1e417d5c6",
+    "title": "AS_05487",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/6ee341f8-c2ab-6c31-f352-8fd1e417d5c6",
+    "width": 3000,
+    "height": 2162,
+    "artwork_ids": [
+      19618
+    ],
+    "source_updated_at": "2025-09-09T19:15:10-05:00",
+    "updated_at": "2026-10-01T18:04:47-05:00",
+    "timestamp": "2026-10-18T01:23:08-05:00"
+  },
+  "7036a6c0-2f41-769a-f987-34ea43dd9ac1": {
+    "id": "7036a6c0-2f41-769a-f987-34ea43dd9ac1",
+    "api_link": "https://api.artic.edu/api/v1/images/7036a6c0-2f41-769a-f987-34ea43dd9ac1",
+    "title": "272614",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/7036a6c0-2f41-769a-f987-34ea43dd9ac1",
+    "width": 3185,
+    "height": 2376,
+    "artwork_ids": [
+      272614
+    ],
+    "source_updated_at": "2025-09-10T10:30:04-05:00",
+    "updated_at": "2026-10-01T21:40:16-05:00",
+    "timestamp": "2026-10-18T01:28:08-05:00"
+  },
+  "732732d5-d3bf-b3ec-8295-7fabb725700d": {
+    "id": "732732d5-d3bf-b3ec-8295-7fabb725700d",
+    "api_link": "https://api.artic.edu/api/v1/images/732732d5-d3bf-b3ec-8295-7fabb725700d",
+    "title": "187093",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/732732d5-d3bf-b3ec-8295-7fabb725700d",
+    "width": 2961,
+    "height": 1737,
+    "artwork_ids": [
+      215372
+    ],
+    "source_updated_at": "2025-09-10T03:15:56-05:00",
+    "updated_at": "2026-10-01T17:42:24-05:00",
+    "timestamp": "2026-10-18T01:22:18-05:00"
+  },
+  "75e241f8-ae34-c798-8ca6-780a0a46d6c3": {
+    "id": "75e241f8-ae34-c798-8ca6-780a0a46d6c3",
+    "api_link": "https://api.artic.edu/api/v1/images/75e241f8-ae34-c798-8ca6-780a0a46d6c3",
+    "title": "AS_11625",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/75e241f8-ae34-c798-8ca6-780a0a46d6c3",
+    "width": 2101,
+    "height": 3000,
+    "artwork_ids": [
+      189136
+    ],
+    "source_updated_at": "2025-09-09T19:35:34-05:00",
+    "updated_at": "2026-10-01T18:14:32-05:00",
+    "timestamp": "2026-10-18T01:23:23-05:00"
+  },
+  "76cb834b-c890-625f-efc5-401d760cb788": {
+    "id": "76cb834b-c890-625f-efc5-401d760cb788",
+    "api_link": "https://api.artic.edu/api/v1/images/76cb834b-c890-625f-efc5-401d760cb788",
+    "title": "AS_10704",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/76cb834b-c890-625f-efc5-401d760cb788",
+    "width": 3000,
+    "height": 1436,
+    "artwork_ids": [
+      28973
+    ],
+    "source_updated_at": "2025-09-09T19:25:03-05:00",
+    "updated_at": "2026-10-01T18:14:56-05:00",
+    "timestamp": "2026-10-18T01:23:24-05:00"
+  },
+  "76b5a746-c165-4acd-9b5d-1443df68b42e": {
+    "id": "76b5a746-c165-4acd-9b5d-1443df68b42e",
+    "api_link": "https://api.artic.edu/api/v1/images/76b5a746-c165-4acd-9b5d-1443df68b42e",
+    "title": "1-1-17(02)_005",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/76b5a746-c165-4acd-9b5d-1443df68b42e",
+    "width": 6300,
+    "height": 4800,
+    "artwork_ids": [
+      228301
+    ],
+    "source_updated_at": "2025-09-26T15:51:49-05:00",
+    "updated_at": "2026-10-01T21:31:16-05:00",
+    "timestamp": "2026-10-18T01:27:37-05:00"
+  },
+  "77fe2a54-5055-ac21-3765-38094169946b": {
+    "id": "77fe2a54-5055-ac21-3765-38094169946b",
+    "api_link": "https://api.artic.edu/api/v1/images/77fe2a54-5055-ac21-3765-38094169946b",
+    "title": "1-1-2_002",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/77fe2a54-5055-ac21-3765-38094169946b",
+    "width": 7095,
+    "height": 4557,
+    "artwork_ids": [
+      228285
+    ],
+    "source_updated_at": "2025-09-26T15:51:34-05:00",
+    "updated_at": "2026-10-01T21:31:15-05:00",
+    "timestamp": "2026-10-18T01:27:37-05:00"
+  },
+  "78866d1e-3046-6386-1b4f-d1112acba636": {
+    "id": "78866d1e-3046-6386-1b4f-d1112acba636",
+    "api_link": "https://api.artic.edu/api/v1/images/78866d1e-3046-6386-1b4f-d1112acba636",
+    "title": "AS_05517",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/78866d1e-3046-6386-1b4f-d1112acba636",
+    "width": 3000,
+    "height": 2140,
+    "artwork_ids": [
+      19543
+    ],
+    "source_updated_at": "2025-09-09T18:30:04-05:00",
+    "updated_at": "2026-10-01T18:01:08-05:00",
+    "timestamp": "2026-10-18T01:23:02-05:00"
+  },
+  "78e07b24-222d-03af-ef48-18566c0e82af": {
+    "id": "78e07b24-222d-03af-ef48-18566c0e82af",
+    "api_link": "https://api.artic.edu/api/v1/images/78e07b24-222d-03af-ef48-18566c0e82af",
+    "title": "AS_05233",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/78e07b24-222d-03af-ef48-18566c0e82af",
+    "width": 3000,
+    "height": 2111,
+    "artwork_ids": [
+      19643
+    ],
+    "source_updated_at": "2025-09-09T19:15:12-05:00",
+    "updated_at": "2026-10-01T18:08:49-05:00",
+    "timestamp": "2026-10-18T01:23:15-05:00"
+  },
+  "7aace8fd-3150-cd7f-b011-85236797e1f7": {
+    "id": "7aace8fd-3150-cd7f-b011-85236797e1f7",
+    "api_link": "https://api.artic.edu/api/v1/images/7aace8fd-3150-cd7f-b011-85236797e1f7",
+    "title": "AS_11903-int",
+    "credit_line": "CC0 Public Domain Designation",
+    "iiif_url": "https://www.artic.edu/iiif/2/7aace8fd-3150-cd7f-b011-85236797e1f7",
+    "width": 2198,
+    "height": 3840,
+    "artwork_ids": [
+      21710
+    ],
+    "source_updated_at": "2025-09-09T19:35:30-05:00",
+    "updated_at": "2026-10-01T18:12:44-05:00",
+    "timestamp": "2026-10-18T01:23:20-05:00"
+  },
+  "7ac430d1-452a-9783-82b5-77e5ed88c5aa": {
+    "id": "7ac430d1-452a-9783-82b5-77e5ed88c5aa",
+    "api_link": "https://api.artic.edu/api/v1/images/7ac430d1-452a-9783-82b5-77e5ed88c5aa",
+    "title": "AS_05520",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/7ac430d1-452a-9783-82b5-77e5ed88c5aa",
+    "width": 3000,
+    "height": 2167,
+    "artwork_ids": [
+      19515
+    ],
+    "source_updated_at": "2025-09-10T06:13:12-05:00",
+    "updated_at": "2026-10-01T18:06:56-05:00",
+    "timestamp": "2026-10-18T01:23:12-05:00"
+  },
+  "7c62e985-1845-41ef-8132-cd32f3b29cca": {
+    "id": "7c62e985-1845-41ef-8132-cd32f3b29cca",
+    "api_link": "https://api.artic.edu/api/v1/images/7c62e985-1845-41ef-8132-cd32f3b29cca",
+    "title": "AS_05231",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/7c62e985-1845-41ef-8132-cd32f3b29cca",
+    "width": 3000,
+    "height": 2113,
+    "artwork_ids": [
+      19638
+    ],
+    "source_updated_at": "2025-09-09T19:15:12-05:00",
+    "updated_at": "2026-10-01T18:04:08-05:00",
+    "timestamp": "2026-10-18T01:23:07-05:00"
+  },
+  "8188fd99-e1b2-0f22-84ce-8188e021fc63": {
+    "id": "8188fd99-e1b2-0f22-84ce-8188e021fc63",
+    "api_link": "https://api.artic.edu/api/v1/images/8188fd99-e1b2-0f22-84ce-8188e021fc63",
+    "title": "Copy of 38.1a",
+    "credit_line": "none",
+    "iiif_url": "https://www.artic.edu/iiif/2/8188fd99-e1b2-0f22-84ce-8188e021fc63",
+    "width": 3024,
+    "height": 4032,
+    "artwork_ids": [
+      189659
+    ],
+    "source_updated_at": "2025-09-10T11:55:06-05:00",
+    "updated_at": "2026-10-01T21:29:46-05:00",
+    "timestamp": "2026-10-18T01:27:35-05:00"
+  },
+  "847824a4-a99d-4858-352d-2f0f7ed8ca8f": {
+    "id": "847824a4-a99d-4858-352d-2f0f7ed8ca8f",
+    "api_link": "https://api.artic.edu/api/v1/images/847824a4-a99d-4858-352d-2f0f7ed8ca8f",
+    "title": "IM001161",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/847824a4-a99d-4858-352d-2f0f7ed8ca8f",
+    "width": 3000,
+    "height": 1157,
+    "artwork_ids": [
+      130422,
+      130421
+    ],
+    "source_updated_at": "2025-09-09T21:11:17-05:00",
+    "updated_at": "2026-10-01T18:21:32-05:00",
+    "timestamp": "2026-10-18T01:23:34-05:00"
+  },
+  "8b79ea28-2209-69bf-7a03-535544c29a2d": {
+    "id": "8b79ea28-2209-69bf-7a03-535544c29a2d",
+    "api_link": "https://api.artic.edu/api/v1/images/8b79ea28-2209-69bf-7a03-535544c29a2d",
+    "title": "AS_05365",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/8b79ea28-2209-69bf-7a03-535544c29a2d",
+    "width": 1928,
+    "height": 3000,
+    "artwork_ids": [
+      8932
+    ],
+    "source_updated_at": "2025-09-09T19:15:11-05:00",
+    "updated_at": "2026-10-01T18:08:28-05:00",
+    "timestamp": "2026-10-18T01:23:14-05:00"
+  },
+  "8d134f2f-6606-f7e7-74aa-c979321bfff0": {
+    "id": "8d134f2f-6606-f7e7-74aa-c979321bfff0",
+    "api_link": "https://api.artic.edu/api/v1/images/8d134f2f-6606-f7e7-74aa-c979321bfff0",
+    "title": "IM001162",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/8d134f2f-6606-f7e7-74aa-c979321bfff0",
+    "width": 3000,
+    "height": 1151,
+    "artwork_ids": [
+      130425,
+      21729
+    ],
+    "source_updated_at": "2025-09-09T21:11:17-05:00",
+    "updated_at": "2026-10-01T18:21:26-05:00",
+    "timestamp": "2026-10-18T01:23:33-05:00"
+  },
+  "8d7de633-f897-deb3-1769-a0d3b9d6a29f": {
+    "id": "8d7de633-f897-deb3-1769-a0d3b9d6a29f",
+    "api_link": "https://api.artic.edu/api/v1/images/8d7de633-f897-deb3-1769-a0d3b9d6a29f",
+    "title": "G42353",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/8d7de633-f897-deb3-1769-a0d3b9d6a29f",
+    "width": 2615,
+    "height": 2250,
+    "artwork_ids": [
+      217417
+    ],
+    "source_updated_at": "2025-09-09T19:05:03-05:00",
+    "updated_at": "2026-10-01T20:37:14-05:00",
+    "timestamp": "2026-10-18T01:26:58-05:00"
+  },
+  "8e6f5a2d-b804-33ee-19e1-934ffdc56b06": {
+    "id": "8e6f5a2d-b804-33ee-19e1-934ffdc56b06",
+    "api_link": "https://api.artic.edu/api/v1/images/8e6f5a2d-b804-33ee-19e1-934ffdc56b06",
+    "title": "1-1-12(01)_038",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/8e6f5a2d-b804-33ee-19e1-934ffdc56b06",
+    "width": 6243,
+    "height": 4794,
+    "artwork_ids": [
+      228296
+    ],
+    "source_updated_at": "2025-09-26T15:51:45-05:00",
+    "updated_at": "2026-10-01T21:31:16-05:00",
+    "timestamp": "2026-10-18T01:27:37-05:00"
+  },
+  "8f115b8b-2b93-5c21-f45f-5ee05d36fbdb": {
+    "id": "8f115b8b-2b93-5c21-f45f-5ee05d36fbdb",
+    "api_link": "https://api.artic.edu/api/v1/images/8f115b8b-2b93-5c21-f45f-5ee05d36fbdb",
+    "title": "AS_09643",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/8f115b8b-2b93-5c21-f45f-5ee05d36fbdb",
+    "width": 3000,
+    "height": 1994,
+    "artwork_ids": [
+      60666
+    ],
+    "source_updated_at": "2025-09-09T19:25:07-05:00",
+    "updated_at": "2026-10-01T18:08:37-05:00",
+    "timestamp": "2026-10-18T01:23:14-05:00"
+  },
+  "8f91a5ca-3ecf-12d8-af81-07edd2620353": {
+    "id": "8f91a5ca-3ecf-12d8-af81-07edd2620353",
+    "api_link": "https://api.artic.edu/api/v1/images/8f91a5ca-3ecf-12d8-af81-07edd2620353",
+    "title": "AS_05671",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/8f91a5ca-3ecf-12d8-af81-07edd2620353",
+    "width": 3000,
+    "height": 2410,
+    "artwork_ids": [
+      192280
+    ],
+    "source_updated_at": "2025-09-09T19:15:08-05:00",
+    "updated_at": "2026-10-01T18:09:54-05:00",
+    "timestamp": "2026-10-18T01:23:16-05:00"
+  },
+  "943f4c14-6eaf-3751-993b-e72a061f8b07": {
+    "id": "943f4c14-6eaf-3751-993b-e72a061f8b07",
+    "api_link": "https://api.artic.edu/api/v1/images/943f4c14-6eaf-3751-993b-e72a061f8b07",
+    "title": "1-1-13_037",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/943f4c14-6eaf-3751-993b-e72a061f8b07",
+    "width": 6054,
+    "height": 4787,
+    "artwork_ids": [
+      228297
+    ],
+    "source_updated_at": "2025-09-26T15:51:46-05:00",
+    "updated_at": "2026-10-01T21:31:16-05:00",
+    "timestamp": "2026-10-18T01:27:37-05:00"
+  },
+  "97a58ada-fe09-44b0-d741-8e3b4ba698bc": {
+    "id": "97a58ada-fe09-44b0-d741-8e3b4ba698bc",
+    "api_link": "https://api.artic.edu/api/v1/images/97a58ada-fe09-44b0-d741-8e3b4ba698bc",
+    "title": "AS_06907",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/97a58ada-fe09-44b0-d741-8e3b4ba698bc",
+    "width": 2282,
+    "height": 3000,
+    "artwork_ids": [
+      21879
+    ],
+    "source_updated_at": "2025-09-09T19:26:06-05:00",
+    "updated_at": "2026-10-01T18:05:02-05:00",
+    "timestamp": "2026-10-18T01:23:09-05:00"
+  },
+  "9bf76588-c3a9-cae7-7e4f-b1c66a096575": {
+    "id": "9bf76588-c3a9-cae7-7e4f-b1c66a096575",
+    "api_link": "https://api.artic.edu/api/v1/images/9bf76588-c3a9-cae7-7e4f-b1c66a096575",
+    "title": "1-1-31(01)_004",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/9bf76588-c3a9-cae7-7e4f-b1c66a096575",
+    "width": 6302,
+    "height": 4766,
+    "artwork_ids": [
+      228370
+    ],
+    "source_updated_at": "2025-09-26T15:52:09-05:00",
+    "updated_at": "2026-10-01T21:31:17-05:00",
+    "timestamp": "2026-10-18T01:27:37-05:00"
+  },
+  "9e4c28d1-5552-1725-6322-76c43b31b7fe": {
+    "id": "9e4c28d1-5552-1725-6322-76c43b31b7fe",
+    "api_link": "https://api.artic.edu/api/v1/images/9e4c28d1-5552-1725-6322-76c43b31b7fe",
+    "title": "158946",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/9e4c28d1-5552-1725-6322-76c43b31b7fe",
+    "width": 3462,
+    "height": 2377,
+    "artwork_ids": [
+      153556
+    ],
+    "source_updated_at": "2025-09-10T03:17:40-05:00",
+    "updated_at": "2026-10-01T17:42:29-05:00",
+    "timestamp": "2026-10-18T01:22:18-05:00"
+  },
+  "9f8b4a16-0f87-5e79-3329-f0cf24dc1baa": {
+    "id": "9f8b4a16-0f87-5e79-3329-f0cf24dc1baa",
+    "api_link": "https://api.artic.edu/api/v1/images/9f8b4a16-0f87-5e79-3329-f0cf24dc1baa",
+    "title": "AS_01888",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/9f8b4a16-0f87-5e79-3329-f0cf24dc1baa",
+    "width": 2455,
+    "height": 3000,
+    "artwork_ids": [
+      41357
+    ],
+    "source_updated_at": "2025-09-09T19:05:05-05:00",
+    "updated_at": "2026-10-01T18:04:12-05:00",
+    "timestamp": "2026-10-18T01:23:07-05:00"
+  },
+  "a183f2e1-1289-a170-eca6-41378fc7aff1": {
+    "id": "a183f2e1-1289-a170-eca6-41378fc7aff1",
+    "api_link": "https://api.artic.edu/api/v1/images/a183f2e1-1289-a170-eca6-41378fc7aff1",
+    "title": "J33420-int",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/a183f2e1-1289-a170-eca6-41378fc7aff1",
+    "width": 10158,
+    "height": 7199,
+    "artwork_ids": [
+      19109
+    ],
+    "source_updated_at": "2026-09-23T13:30:10-05:00",
+    "updated_at": "2026-10-01T21:48:16-05:00",
+    "timestamp": "2026-10-18T01:28:30-05:00"
+  },
+  "a2ca8d43-f6a4-d6b8-00ae-14eb4282a634": {
+    "id": "a2ca8d43-f6a4-d6b8-00ae-14eb4282a634",
+    "api_link": "https://api.artic.edu/api/v1/images/a2ca8d43-f6a4-d6b8-00ae-14eb4282a634",
+    "title": "AS_05505",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/a2ca8d43-f6a4-d6b8-00ae-14eb4282a634",
+    "width": 3000,
+    "height": 2172,
+    "artwork_ids": [
+      19550
+    ],
+    "source_updated_at": "2025-09-09T19:15:09-05:00",
+    "updated_at": "2026-10-01T18:07:41-05:00",
+    "timestamp": "2026-10-18T01:23:13-05:00"
+  },
+  "a859b8c5-3b30-644f-bb11-fc8b88f628db": {
+    "id": "a859b8c5-3b30-644f-bb11-fc8b88f628db",
+    "api_link": "https://api.artic.edu/api/v1/images/a859b8c5-3b30-644f-bb11-fc8b88f628db",
+    "title": "272622",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/a859b8c5-3b30-644f-bb11-fc8b88f628db",
+    "width": 3031,
+    "height": 2310,
+    "artwork_ids": [
+      272622
+    ],
+    "source_updated_at": "2025-09-10T10:30:04-05:00",
+    "updated_at": "2026-10-01T21:40:17-05:00",
+    "timestamp": "2026-10-18T01:28:08-05:00"
+  },
+  "a8ae53c3-efbb-ce52-3c0a-f2b2a3b29757": {
+    "id": "a8ae53c3-efbb-ce52-3c0a-f2b2a3b29757",
+    "api_link": "https://api.artic.edu/api/v1/images/a8ae53c3-efbb-ce52-3c0a-f2b2a3b29757",
+    "title": "AS_05415",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/a8ae53c3-efbb-ce52-3c0a-f2b2a3b29757",
+    "width": 3000,
+    "height": 2205,
+    "artwork_ids": [
+      19023
+    ],
+    "source_updated_at": "2025-09-09T19:15:10-05:00",
+    "updated_at": "2026-10-01T18:05:18-05:00",
+    "timestamp": "2026-10-18T01:23:09-05:00"
+  },
+  "a8f9c7e7-3b72-31dd-4f48-ca2f0882385f": {
+    "id": "a8f9c7e7-3b72-31dd-4f48-ca2f0882385f",
+    "api_link": "https://api.artic.edu/api/v1/images/a8f9c7e7-3b72-31dd-4f48-ca2f0882385f",
+    "title": "AS_05236",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/a8f9c7e7-3b72-31dd-4f48-ca2f0882385f",
+    "width": 3000,
+    "height": 2130,
+    "artwork_ids": [
+      19650
+    ],
+    "source_updated_at": "2025-09-09T19:15:12-05:00",
+    "updated_at": "2026-10-01T18:03:55-05:00",
+    "timestamp": "2026-10-18T01:23:07-05:00"
+  },
+  "a93fd3f6-d1e3-d775-2893-bebe3bac195a": {
+    "id": "a93fd3f6-d1e3-d775-2893-bebe3bac195a",
+    "api_link": "https://api.artic.edu/api/v1/images/a93fd3f6-d1e3-d775-2893-bebe3bac195a",
+    "title": "AS_11247",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/a93fd3f6-d1e3-d775-2893-bebe3bac195a",
+    "width": 3000,
+    "height": 2209,
+    "artwork_ids": [
+      25975
+    ],
+    "source_updated_at": "2025-09-09T19:35:37-05:00",
+    "updated_at": "2026-10-01T18:12:55-05:00",
+    "timestamp": "2026-10-18T01:23:20-05:00"
+  },
+  "aac3fdf9-2bf2-3978-92d8-182e49dc6da6": {
+    "id": "aac3fdf9-2bf2-3978-92d8-182e49dc6da6",
+    "api_link": "https://api.artic.edu/api/v1/images/aac3fdf9-2bf2-3978-92d8-182e49dc6da6",
+    "title": "AS_09712",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/aac3fdf9-2bf2-3978-92d8-182e49dc6da6",
+    "width": 2101,
+    "height": 3000,
+    "artwork_ids": [
+      154087
+    ],
+    "source_updated_at": "2025-09-09T19:25:06-05:00",
+    "updated_at": "2026-10-01T18:08:28-05:00",
+    "timestamp": "2026-10-18T01:23:14-05:00"
+  },
+  "acb999af-0e65-58eb-e02d-aaa0edbc54de": {
+    "id": "acb999af-0e65-58eb-e02d-aaa0edbc54de",
+    "api_link": "https://api.artic.edu/api/v1/images/acb999af-0e65-58eb-e02d-aaa0edbc54de",
+    "title": "AS_05480",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/acb999af-0e65-58eb-e02d-aaa0edbc54de",
+    "width": 3000,
+    "height": 2074,
+    "artwork_ids": [
+      19603
+    ],
+    "source_updated_at": "2025-09-09T19:15:10-05:00",
+    "updated_at": "2026-10-01T18:04:58-05:00",
+    "timestamp": "2026-10-18T01:23:09-05:00"
+  },
+  "ad60dd0c-288d-baa5-1f01-40117d89e946": {
+    "id": "ad60dd0c-288d-baa5-1f01-40117d89e946",
+    "api_link": "https://api.artic.edu/api/v1/images/ad60dd0c-288d-baa5-1f01-40117d89e946",
+    "title": "AS_07925",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/ad60dd0c-288d-baa5-1f01-40117d89e946",
+    "width": 2129,
+    "height": 3000,
+    "artwork_ids": [
+      22843
+    ],
+    "source_updated_at": "2025-09-09T18:35:36-05:00",
+    "updated_at": "2026-10-01T18:01:38-05:00",
+    "timestamp": "2026-10-18T01:23:03-05:00"
+  },
+  "b02c777b-6113-e64d-b7d6-d5bed61de901": {
+    "id": "b02c777b-6113-e64d-b7d6-d5bed61de901",
+    "api_link": "https://api.artic.edu/api/v1/images/b02c777b-6113-e64d-b7d6-d5bed61de901",
+    "title": "272613",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/b02c777b-6113-e64d-b7d6-d5bed61de901",
+    "width": 3136,
+    "height": 2647,
+    "artwork_ids": [
+      272613
+    ],
+    "source_updated_at": "2025-09-10T10:30:04-05:00",
+    "updated_at": "2026-10-01T21:40:16-05:00",
+    "timestamp": "2026-10-18T01:28:08-05:00"
+  },
+  "b0998fa0-44a1-c5c9-500d-5ff480e66b3d": {
+    "id": "b0998fa0-44a1-c5c9-500d-5ff480e66b3d",
+    "api_link": "https://api.artic.edu/api/v1/images/b0998fa0-44a1-c5c9-500d-5ff480e66b3d",
+    "title": "AS_05530",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/b0998fa0-44a1-c5c9-500d-5ff480e66b3d",
+    "width": 2611,
+    "height": 3000,
+    "artwork_ids": [
+      33118
+    ],
+    "source_updated_at": "2025-09-10T06:13:12-05:00",
+    "updated_at": "2026-10-01T18:08:34-05:00",
+    "timestamp": "2026-10-18T01:23:14-05:00"
+  },
+  "b1a85a50-885b-29c1-2c5b-ca27b2ee5af3": {
+    "id": "b1a85a50-885b-29c1-2c5b-ca27b2ee5af3",
+    "api_link": "https://api.artic.edu/api/v1/images/b1a85a50-885b-29c1-2c5b-ca27b2ee5af3",
+    "title": "187094",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/b1a85a50-885b-29c1-2c5b-ca27b2ee5af3",
+    "width": 2073,
+    "height": 2875,
+    "artwork_ids": [
+      215373
+    ],
+    "source_updated_at": "2025-09-10T03:15:56-05:00",
+    "updated_at": "2026-10-01T17:42:25-05:00",
+    "timestamp": "2026-10-18T01:22:18-05:00"
+  },
+  "b1ddd40f-e342-411e-e397-b46665467c1f": {
+    "id": "b1ddd40f-e342-411e-e397-b46665467c1f",
+    "api_link": "https://api.artic.edu/api/v1/images/b1ddd40f-e342-411e-e397-b46665467c1f",
+    "title": "4-1-18(05)_006",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/b1ddd40f-e342-411e-e397-b46665467c1f",
+    "width": 5961,
+    "height": 4643,
+    "artwork_ids": [
+      187495
+    ],
+    "source_updated_at": "2025-09-10T08:03:41-05:00",
+    "updated_at": "2026-10-01T21:31:50-05:00",
+    "timestamp": "2026-10-18T01:27:38-05:00"
+  },
+  "b2998d37-b9ee-9425-dfce-81ab3841596c": {
+    "id": "b2998d37-b9ee-9425-dfce-81ab3841596c",
+    "api_link": "https://api.artic.edu/api/v1/images/b2998d37-b9ee-9425-dfce-81ab3841596c",
+    "title": "1-1-26_013",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/b2998d37-b9ee-9425-dfce-81ab3841596c",
+    "width": 6075,
+    "height": 4781,
+    "artwork_ids": [
+      228367
+    ],
+    "source_updated_at": "2025-09-26T15:52:04-05:00",
+    "updated_at": "2026-10-01T21:31:17-05:00",
+    "timestamp": "2026-10-18T01:27:37-05:00"
+  },
+  "b34558f7-35e7-acd6-514c-51e37115f2b4": {
+    "id": "b34558f7-35e7-acd6-514c-51e37115f2b4",
+    "api_link": "https://api.artic.edu/api/v1/images/b34558f7-35e7-acd6-514c-51e37115f2b4",
+    "title": "AS_07657",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/b34558f7-35e7-acd6-514c-51e37115f2b4",
+    "width": 3000,
+    "height": 2024,
+    "artwork_ids": [
+      22650
+    ],
+    "source_updated_at": "2025-09-09T19:25:57-05:00",
+    "updated_at": "2026-10-01T18:03:05-05:00",
+    "timestamp": "2026-10-18T01:23:05-05:00"
+  },
+  "b45ee585-b29f-98d0-38f8-4faf9362e32c": {
+    "id": "b45ee585-b29f-98d0-38f8-4faf9362e32c",
+    "api_link": "https://api.artic.edu/api/v1/images/b45ee585-b29f-98d0-38f8-4faf9362e32c",
+    "title": "2-2-41(03)_007",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/b45ee585-b29f-98d0-38f8-4faf9362e32c",
+    "width": 6009,
+    "height": 4719,
+    "artwork_ids": [
+      188949
+    ],
+    "source_updated_at": "2025-09-10T08:03:48-05:00",
+    "updated_at": "2026-10-01T21:31:29-05:00",
+    "timestamp": "2026-10-18T01:27:37-05:00"
+  },
+  "b671e3af-3556-20ad-59dd-bbd5ffa13cd2": {
+    "id": "b671e3af-3556-20ad-59dd-bbd5ffa13cd2",
+    "api_link": "https://api.artic.edu/api/v1/images/b671e3af-3556-20ad-59dd-bbd5ffa13cd2",
+    "title": "1-1-28_008",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/b671e3af-3556-20ad-59dd-bbd5ffa13cd2",
+    "width": 6084,
+    "height": 4796,
+    "artwork_ids": [
+      228368
+    ],
+    "source_updated_at": "2025-09-26T15:52:06-05:00",
+    "updated_at": "2026-10-01T21:31:17-05:00",
+    "timestamp": "2026-10-18T01:27:37-05:00"
+  },
+  "b8ece040-7896-e9cc-5a06-ab0743b171b9": {
+    "id": "b8ece040-7896-e9cc-5a06-ab0743b171b9",
+    "api_link": "https://api.artic.edu/api/v1/images/b8ece040-7896-e9cc-5a06-ab0743b171b9",
+    "title": "AS_06243",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/b8ece040-7896-e9cc-5a06-ab0743b171b9",
+    "width": 3000,
+    "height": 2338,
+    "artwork_ids": [
+      21152
+    ],
+    "source_updated_at": "2025-09-09T19:15:03-05:00",
+    "updated_at": "2026-10-01T18:05:43-05:00",
+    "timestamp": "2026-10-18T01:23:10-05:00"
+  },
+  "bbe353c6-3040-4023-6f1b-d23f4a1fd288": {
+    "id": "bbe353c6-3040-4023-6f1b-d23f4a1fd288",
+    "api_link": "https://api.artic.edu/api/v1/images/bbe353c6-3040-4023-6f1b-d23f4a1fd288",
+    "title": "1-1-15(02)_027",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/bbe353c6-3040-4023-6f1b-d23f4a1fd288",
+    "width": 5920,
+    "height": 4817,
+    "artwork_ids": [
+      228299
+    ],
+    "source_updated_at": "2025-09-26T15:51:47-05:00",
+    "updated_at": "2026-10-01T21:31:16-05:00",
+    "timestamp": "2026-10-18T01:27:37-05:00"
+  },
+  "bc7154f7-cad9-bc97-1cce-41d1c24a0c03": {
+    "id": "bc7154f7-cad9-bc97-1cce-41d1c24a0c03",
+    "api_link": "https://api.artic.edu/api/v1/images/bc7154f7-cad9-bc97-1cce-41d1c24a0c03",
+    "title": "AS_05490",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/bc7154f7-cad9-bc97-1cce-41d1c24a0c03",
+    "width": 3000,
+    "height": 2105,
+    "artwork_ids": [
+      19609
+    ],
+    "source_updated_at": "2025-09-09T18:30:04-05:00",
+    "updated_at": "2026-10-01T18:01:34-05:00",
+    "timestamp": "2026-10-18T01:23:03-05:00"
+  },
+  "bd3729c9-9320-5907-5f66-0aa43516fbfb": {
+    "id": "bd3729c9-9320-5907-5f66-0aa43516fbfb",
+    "api_link": "https://api.artic.edu/api/v1/images/bd3729c9-9320-5907-5f66-0aa43516fbfb",
+    "title": "AS_05527",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/bd3729c9-9320-5907-5f66-0aa43516fbfb",
+    "width": 3000,
+    "height": 2112,
+    "artwork_ids": [
+      19539
+    ],
+    "source_updated_at": "2025-09-10T06:13:12-05:00",
+    "updated_at": "2026-10-01T18:06:43-05:00",
+    "timestamp": "2026-10-18T01:23:12-05:00"
+  },
+  "c3bd6033-ef3b-5bab-077f-48c0f773a595": {
+    "id": "c3bd6033-ef3b-5bab-077f-48c0f773a595",
+    "api_link": "https://api.artic.edu/api/v1/images/c3bd6033-ef3b-5bab-077f-48c0f773a595",
+    "title": "AS_08246",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/c3bd6033-ef3b-5bab-077f-48c0f773a595",
+    "width": 3000,
+    "height": 2037,
+    "artwork_ids": [
+      23845
+    ],
+    "source_updated_at": "2025-09-09T19:25:49-05:00",
+    "updated_at": "2026-10-01T18:08:46-05:00",
+    "timestamp": "2026-10-18T01:23:15-05:00"
+  },
+  "c634cb9f-6707-8ea1-1a8c-0828ed6642bc": {
+    "id": "c634cb9f-6707-8ea1-1a8c-0828ed6642bc",
+    "api_link": "https://api.artic.edu/api/v1/images/c634cb9f-6707-8ea1-1a8c-0828ed6642bc",
+    "title": "1-1-34(03)_021",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/c634cb9f-6707-8ea1-1a8c-0828ed6642bc",
+    "width": 6611,
+    "height": 4688,
+    "artwork_ids": [
+      228372
+    ],
+    "source_updated_at": "2025-09-26T15:52:12-05:00",
+    "updated_at": "2026-10-01T21:31:18-05:00",
+    "timestamp": "2026-10-18T01:27:37-05:00"
+  },
+  "c6432555-2829-fba1-a7e0-dfb984531c14": {
+    "id": "c6432555-2829-fba1-a7e0-dfb984531c14",
+    "api_link": "https://api.artic.edu/api/v1/images/c6432555-2829-fba1-a7e0-dfb984531c14",
+    "title": "158956",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/c6432555-2829-fba1-a7e0-dfb984531c14",
+    "width": 3273,
+    "height": 2592,
+    "artwork_ids": [
+      153561
+    ],
+    "source_updated_at": "2025-09-10T03:17:40-05:00",
+    "updated_at": "2026-10-01T17:41:50-05:00",
+    "timestamp": "2026-10-18T01:22:17-05:00"
+  },
+  "c7cbee6e-5556-8bce-7ba3-60469c1d986a": {
+    "id": "c7cbee6e-5556-8bce-7ba3-60469c1d986a",
+    "api_link": "https://api.artic.edu/api/v1/images/c7cbee6e-5556-8bce-7ba3-60469c1d986a",
+    "title": "AS_11539",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/c7cbee6e-5556-8bce-7ba3-60469c1d986a",
+    "width": 3000,
+    "height": 2152,
+    "artwork_ids": [
+      45761
+    ],
+    "source_updated_at": "2025-09-09T19:35:34-05:00",
+    "updated_at": "2026-10-01T18:11:38-05:00",
+    "timestamp": "2026-10-18T01:23:18-05:00"
+  },
+  "cd6e9a06-dc32-10dc-3753-bf54dde53cce": {
+    "id": "cd6e9a06-dc32-10dc-3753-bf54dde53cce",
+    "api_link": "https://api.artic.edu/api/v1/images/cd6e9a06-dc32-10dc-3753-bf54dde53cce",
+    "title": "AS_05657",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/cd6e9a06-dc32-10dc-3753-bf54dde53cce",
+    "width": 3000,
+    "height": 2367,
+    "artwork_ids": [
+      192270
+    ],
+    "source_updated_at": "2025-09-09T19:15:08-05:00",
+    "updated_at": "2026-10-01T18:03:56-05:00",
+    "timestamp": "2026-10-18T01:23:07-05:00"
+  },
+  "cfa5821f-b6bf-f668-cab8-1500412fe598": {
+    "id": "cfa5821f-b6bf-f668-cab8-1500412fe598",
+    "api_link": "https://api.artic.edu/api/v1/images/cfa5821f-b6bf-f668-cab8-1500412fe598",
+    "title": "272594",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/cfa5821f-b6bf-f668-cab8-1500412fe598",
+    "width": 2921,
+    "height": 2088,
+    "artwork_ids": [
+      272594
+    ],
+    "source_updated_at": "2025-09-10T10:30:04-05:00",
+    "updated_at": "2026-10-01T21:40:14-05:00",
+    "timestamp": "2026-10-18T01:28:08-05:00"
+  },
+  "d11c3f8b-d822-065f-e05f-db8546865e3f": {
+    "id": "d11c3f8b-d822-065f-e05f-db8546865e3f",
+    "api_link": "https://api.artic.edu/api/v1/images/d11c3f8b-d822-065f-e05f-db8546865e3f",
+    "title": "AS_07655",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/d11c3f8b-d822-065f-e05f-db8546865e3f",
+    "width": 3000,
+    "height": 2022,
+    "artwork_ids": [
+      22647
+    ],
+    "source_updated_at": "2025-09-09T19:25:57-05:00",
+    "updated_at": "2026-10-01T18:10:08-05:00",
+    "timestamp": "2026-10-18T01:23:17-05:00"
+  },
+  "d289614a-e9b3-493b-e93c-5973ecfa42cd": {
+    "id": "d289614a-e9b3-493b-e93c-5973ecfa42cd",
+    "api_link": "https://api.artic.edu/api/v1/images/d289614a-e9b3-493b-e93c-5973ecfa42cd",
+    "title": "AS_09713",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/d289614a-e9b3-493b-e93c-5973ecfa42cd",
+    "width": 3000,
+    "height": 2154,
+    "artwork_ids": [
+      154086
+    ],
+    "source_updated_at": "2025-09-09T19:25:06-05:00",
+    "updated_at": "2026-10-01T18:05:33-05:00",
+    "timestamp": "2026-10-18T01:23:10-05:00"
+  },
+  "d6149260-e81b-781a-3e07-1e2447cb9d32": {
+    "id": "d6149260-e81b-781a-3e07-1e2447cb9d32",
+    "api_link": "https://api.artic.edu/api/v1/images/d6149260-e81b-781a-3e07-1e2447cb9d32",
+    "title": "AS_05454",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/d6149260-e81b-781a-3e07-1e2447cb9d32",
+    "width": 3000,
+    "height": 2202,
+    "artwork_ids": [
+      28975
+    ],
+    "source_updated_at": "2025-09-09T19:15:10-05:00",
+    "updated_at": "2026-10-01T18:07:18-05:00",
+    "timestamp": "2026-10-18T01:23:13-05:00"
+  },
+  "d62e57d1-9ac4-9ca0-d255-43b799bb7f7a": {
+    "id": "d62e57d1-9ac4-9ca0-d255-43b799bb7f7a",
+    "api_link": "https://api.artic.edu/api/v1/images/d62e57d1-9ac4-9ca0-d255-43b799bb7f7a",
+    "title": "AS_05489",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/d62e57d1-9ac4-9ca0-d255-43b799bb7f7a",
+    "width": 3000,
+    "height": 2095,
+    "artwork_ids": [
+      19612
+    ],
+    "source_updated_at": "2025-09-09T19:15:10-05:00",
+    "updated_at": "2026-10-01T18:04:40-05:00",
+    "timestamp": "2026-10-18T01:23:08-05:00"
+  },
+  "d7321fd6-ed21-93a1-e003-f19f36d487ac": {
+    "id": "d7321fd6-ed21-93a1-e003-f19f36d487ac",
+    "api_link": "https://api.artic.edu/api/v1/images/d7321fd6-ed21-93a1-e003-f19f36d487ac",
+    "title": "AS_05521",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/d7321fd6-ed21-93a1-e003-f19f36d487ac",
+    "width": 3000,
+    "height": 2189,
+    "artwork_ids": [
+      19512
+    ],
+    "source_updated_at": "2025-09-10T06:13:12-05:00",
+    "updated_at": "2026-10-01T18:09:24-05:00",
+    "timestamp": "2026-10-18T01:23:15-05:00"
+  },
+  "d74aaa65-a0b0-5efc-7784-4c61e512e927": {
+    "id": "d74aaa65-a0b0-5efc-7784-4c61e512e927",
+    "api_link": "https://api.artic.edu/api/v1/images/d74aaa65-a0b0-5efc-7784-4c61e512e927",
+    "title": "AS_09715",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/d74aaa65-a0b0-5efc-7784-4c61e512e927",
+    "width": 2068,
+    "height": 3000,
+    "artwork_ids": [
+      154082
+    ],
+    "source_updated_at": "2025-09-09T19:25:06-05:00",
+    "updated_at": "2026-10-01T18:08:32-05:00",
+    "timestamp": "2026-10-18T01:23:14-05:00"
+  },
+  "d7a932c7-6fa2-e4b0-2380-0d44deb7a4c7": {
+    "id": "d7a932c7-6fa2-e4b0-2380-0d44deb7a4c7",
+    "api_link": "https://api.artic.edu/api/v1/images/d7a932c7-6fa2-e4b0-2380-0d44deb7a4c7",
+    "title": "187100",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/d7a932c7-6fa2-e4b0-2380-0d44deb7a4c7",
+    "width": 2019,
+    "height": 2735,
+    "artwork_ids": [
+      216963
+    ],
+    "source_updated_at": "2025-09-10T03:15:56-05:00",
+    "updated_at": "2026-10-01T17:43:21-05:00",
+    "timestamp": "2026-10-18T01:22:20-05:00"
+  },
+  "d99ad292-891c-6ca8-3ed8-1e5b72faa1ed": {
+    "id": "d99ad292-891c-6ca8-3ed8-1e5b72faa1ed",
+    "api_link": "https://api.artic.edu/api/v1/images/d99ad292-891c-6ca8-3ed8-1e5b72faa1ed",
+    "title": "159940",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/d99ad292-891c-6ca8-3ed8-1e5b72faa1ed",
+    "width": 2178,
+    "height": 1463,
+    "artwork_ids": [
+      153570
+    ],
+    "source_updated_at": "2025-09-10T03:17:37-05:00",
+    "updated_at": "2026-10-01T17:43:20-05:00",
+    "timestamp": "2026-10-18T01:22:20-05:00"
+  },
+  "e22f4909-4ec3-fd7b-3959-eb8529baccce": {
+    "id": "e22f4909-4ec3-fd7b-3959-eb8529baccce",
+    "api_link": "https://api.artic.edu/api/v1/images/e22f4909-4ec3-fd7b-3959-eb8529baccce",
+    "title": "AS_04410",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/e22f4909-4ec3-fd7b-3959-eb8529baccce",
+    "width": 2143,
+    "height": 3000,
+    "artwork_ids": [
+      56236
+    ],
+    "source_updated_at": "2025-09-09T19:15:20-05:00",
+    "updated_at": "2026-10-01T18:09:29-05:00",
+    "timestamp": "2026-10-18T01:23:16-05:00"
+  },
+  "ebe28d8b-bc8e-dbfb-4459-3016edeb13f3": {
+    "id": "ebe28d8b-bc8e-dbfb-4459-3016edeb13f3",
+    "api_link": "https://api.artic.edu/api/v1/images/ebe28d8b-bc8e-dbfb-4459-3016edeb13f3",
+    "title": "G33479",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/ebe28d8b-bc8e-dbfb-4459-3016edeb13f3",
+    "width": 3000,
+    "height": 2062,
+    "artwork_ids": [
+      188987
+    ],
+    "source_updated_at": "2025-09-09T18:50:08-05:00",
+    "updated_at": "2026-10-01T20:33:21-05:00",
+    "timestamp": "2026-10-18T01:26:52-05:00"
+  },
+  "ed102c49-a5cf-589a-46ba-9d80c209d36a": {
+    "id": "ed102c49-a5cf-589a-46ba-9d80c209d36a",
+    "api_link": "https://api.artic.edu/api/v1/images/ed102c49-a5cf-589a-46ba-9d80c209d36a",
+    "title": "1-1-33(02)_052",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/ed102c49-a5cf-589a-46ba-9d80c209d36a",
+    "width": 6249,
+    "height": 4796,
+    "artwork_ids": [
+      228371
+    ],
+    "source_updated_at": "2025-09-26T15:52:11-05:00",
+    "updated_at": "2026-10-01T21:31:17-05:00",
+    "timestamp": "2026-10-18T01:27:37-05:00"
+  },
+  "edb13ab3-9041-4b9b-122d-6c8251f79821": {
+    "id": "edb13ab3-9041-4b9b-122d-6c8251f79821",
+    "api_link": "https://api.artic.edu/api/v1/images/edb13ab3-9041-4b9b-122d-6c8251f79821",
+    "title": "AS_05514",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/edb13ab3-9041-4b9b-122d-6c8251f79821",
+    "width": 3000,
+    "height": 2149,
+    "artwork_ids": [
+      19581
+    ],
+    "source_updated_at": "2025-09-10T06:13:12-05:00",
+    "updated_at": "2026-10-01T18:09:52-05:00",
+    "timestamp": "2026-10-18T01:23:16-05:00"
+  },
+  "ee09bc8e-b6c1-cd1f-7a3c-1bbee5341abc": {
+    "id": "ee09bc8e-b6c1-cd1f-7a3c-1bbee5341abc",
+    "api_link": "https://api.artic.edu/api/v1/images/ee09bc8e-b6c1-cd1f-7a3c-1bbee5341abc",
+    "title": "AS_05479",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/ee09bc8e-b6c1-cd1f-7a3c-1bbee5341abc",
+    "width": 3000,
+    "height": 2083,
+    "artwork_ids": [
+      19606
+    ],
+    "source_updated_at": "2025-09-09T19:15:10-05:00",
+    "updated_at": "2026-10-01T18:09:23-05:00",
+    "timestamp": "2026-10-18T01:23:15-05:00"
+  },
+  "eef345fe-5270-8be8-c02d-48ad307c4bd3": {
+    "id": "eef345fe-5270-8be8-c02d-48ad307c4bd3",
+    "api_link": "https://api.artic.edu/api/v1/images/eef345fe-5270-8be8-c02d-48ad307c4bd3",
+    "title": "2-2-6_015",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/eef345fe-5270-8be8-c02d-48ad307c4bd3",
+    "width": 6051,
+    "height": 4733,
+    "artwork_ids": [
+      188953
+    ],
+    "source_updated_at": "2025-09-10T08:03:48-05:00",
+    "updated_at": "2026-10-01T21:31:25-05:00",
+    "timestamp": "2026-10-18T01:27:37-05:00"
+  },
+  "f86d175d-e042-a483-7ae3-e3d7be05b42e": {
+    "id": "f86d175d-e042-a483-7ae3-e3d7be05b42e",
+    "api_link": "https://api.artic.edu/api/v1/images/f86d175d-e042-a483-7ae3-e3d7be05b42e",
+    "title": "AS_09758",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/f86d175d-e042-a483-7ae3-e3d7be05b42e",
+    "width": 3000,
+    "height": 2083,
+    "artwork_ids": [
+      24409
+    ],
+    "source_updated_at": "2025-09-09T18:35:23-05:00",
+    "updated_at": "2026-10-01T18:02:04-05:00",
+    "timestamp": "2026-10-18T01:23:04-05:00"
+  },
+  "f98bb953-9d1c-8a5f-a167-62dc496884cf": {
+    "id": "f98bb953-9d1c-8a5f-a167-62dc496884cf",
+    "api_link": "https://api.artic.edu/api/v1/images/f98bb953-9d1c-8a5f-a167-62dc496884cf",
+    "title": "IM008267",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/f98bb953-9d1c-8a5f-a167-62dc496884cf",
+    "width": 3000,
+    "height": 2174,
+    "artwork_ids": [
+      215375
+    ],
+    "source_updated_at": "2025-09-09T21:31:39-05:00",
+    "updated_at": "2026-10-01T18:28:26-05:00",
+    "timestamp": "2026-10-18T01:23:44-05:00"
+  },
+  "fb0d1ee0-c13b-d99b-573d-5f81dcb68da4": {
+    "id": "fb0d1ee0-c13b-d99b-573d-5f81dcb68da4",
+    "api_link": "https://api.artic.edu/api/v1/images/fb0d1ee0-c13b-d99b-573d-5f81dcb68da4",
+    "title": "AS_01903-int",
+    "credit_line": "CC0 Public Domain Designation",
+    "iiif_url": "https://www.artic.edu/iiif/2/fb0d1ee0-c13b-d99b-573d-5f81dcb68da4",
+    "width": 3453,
+    "height": 2355,
+    "artwork_ids": [
+      103309
+    ],
+    "source_updated_at": "2025-09-09T19:05:05-05:00",
+    "updated_at": "2026-10-01T18:08:05-05:00",
+    "timestamp": "2026-10-18T01:23:14-05:00"
+  },
+  "fc890674-a623-68c8-262e-1fc2eb00c44e": {
+    "id": "fc890674-a623-68c8-262e-1fc2eb00c44e",
+    "api_link": "https://api.artic.edu/api/v1/images/fc890674-a623-68c8-262e-1fc2eb00c44e",
+    "title": "AS_11552",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/fc890674-a623-68c8-262e-1fc2eb00c44e",
+    "width": 3000,
+    "height": 2168,
+    "artwork_ids": [
+      33296
+    ],
+    "source_updated_at": "2025-09-09T19:35:34-05:00",
+    "updated_at": "2026-10-01T18:13:10-05:00",
+    "timestamp": "2026-10-18T01:23:21-05:00"
+  },
+  "fe93d8d4-863a-85a5-5cee-dd41411639c3": {
+    "id": "fe93d8d4-863a-85a5-5cee-dd41411639c3",
+    "api_link": "https://api.artic.edu/api/v1/images/fe93d8d4-863a-85a5-5cee-dd41411639c3",
+    "title": "1-1-18(02)_017",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/fe93d8d4-863a-85a5-5cee-dd41411639c3",
+    "width": 6375,
+    "height": 4800,
+    "artwork_ids": [
+      228302
+    ],
+    "source_updated_at": "2025-09-26T15:51:50-05:00",
+    "updated_at": "2026-10-01T21:31:16-05:00",
+    "timestamp": "2026-10-18T01:27:37-05:00"
+  },
+  "feae474a-98ed-2f46-2879-cb19b8a8a3b3": {
+    "id": "feae474a-98ed-2f46-2879-cb19b8a8a3b3",
+    "api_link": "https://api.artic.edu/api/v1/images/feae474a-98ed-2f46-2879-cb19b8a8a3b3",
+    "title": "AS_08647",
+    "credit_line": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/feae474a-98ed-2f46-2879-cb19b8a8a3b3",
+    "width": 3000,
+    "height": 2032,
+    "artwork_ids": [
+      34850
+    ],
+    "source_updated_at": "2025-09-09T18:35:34-05:00",
+    "updated_at": "2026-10-01T18:00:50-05:00",
+    "timestamp": "2026-10-18T01:23:02-05:00"
+  }
+}

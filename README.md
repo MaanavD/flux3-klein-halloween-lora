@@ -5,9 +5,12 @@ A LoRA training set of 65 Halloween postcards from about 1900 to 1920, captioned
 ## Layout
 
 ```
-halloween/    65 .jpg images, 65 .txt captions, metadata.csv
-configs/    AI Toolkit configs
-scripts/    make_card.py
+halloween/             65 .jpg images, 65 .txt captions, metadata.csv
+configs/               AI Toolkit configs
+scripts/               make_card.py
+halloween_lora.ipynb   training notebook
+ukiyoe/                a second dataset: 156 ukiyo-e prints with captions
+space/                 the Hugging Face Space app
 ```
 
 - `halloween-lora-cosine.yaml`: 4,000 steps, cosine learning rate schedule.
@@ -40,3 +43,9 @@ python /path/to/scripts/make_card.py --lora klein-vqx-shift4k-cosine_000002000.s
 ```
 
 It renders at 1024 x 1024, 50 steps, guidance 3.5, LoRA strength 1. Change `--strength`, `--seed` or `--steps` to taste.
+
+Or make one in the browser with the [Hugging Face Space](https://huggingface.co/spaces/black-forest-labs/flux3-klein-halloween-card). Its code is in `space/`.
+
+## Make your own
+
+`ukiyoe/` holds 156 ukiyo-e prints from the Art Institute of Chicago, all public domain, captioned with the trigger word `ukiyobw`. See [ukiyoe/README.md](ukiyoe/README.md) for sources and checksums.

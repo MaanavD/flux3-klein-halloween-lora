@@ -1,0 +1,36 @@
+[
+  {
+    "local_file": "ukiyoe_bw_0001.jpg",
+    "reference_file": "rawpixel-courier.jpg",
+    "local_size": [
+      1686,
+      1186
+    ],
+    "reference_size": [
+      800,
+      563
+    ],
+    "mean_absolute_rgb_difference_at_256_square": 2.0446319580078125,
+    "reference_sha256": "ed1dae6d72d86d8bae534fc7db9d89f64e4a55f67de0e4438a6593756b35f552",
+    "reference_page": "https://www.rawpixel.com/image/8944676/image-paper-cartoon-people",
+    "source_page": "https://www.artic.edu/artworks/19643",
+    "reference_image_url": "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTEyL2FpYzE5NjQzLWltYWdlLmpwZw.jpg"
+  },
+  {
+    "local_file": "ukiyoe_bw_0002.jpg",
+    "reference_file": "rawpixel-41357.jpg",
+    "local_size": [
+      1676,
+      2048
+    ],
+    "reference_size": [
+      800,
+      978
+    ],
+    "mean_absolute_rgb_difference_at_256_square": 1.5481719970703125,
+    "reference_sha256": "09676a74a68e1b5fc815bbbbd7c145b48753a60d184e37f82a5a7ff7dc466dea",
+    "reference_page": "https://www.rawpixel.com/image/8944949/bat-flying-near-pine-tree-issho",
+    "source_page": "https://www.artic.edu/artworks/41357",
+    "reference_image_url": "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTEyL2FpYzQxMzU3LWltYWdlLmpwZw.jpg"
+  }
+]
