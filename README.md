@@ -15,6 +15,8 @@ scripts/    make_card.py
 
 ## Train
 
+Follow the [training notebook](halloween_lora.ipynb) for a step-by-step walkthrough.
+
 1. Clone AI Toolkit and check out the commit above.
 2. In the config, set `folder_path` to the absolute path of `halloween/` and `training_folder` to your output directory.
 3. From the AI Toolkit root, run:
