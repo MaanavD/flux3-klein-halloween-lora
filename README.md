@@ -5,7 +5,7 @@ A LoRA training set of 65 Halloween postcards from about 1900 to 1920, captioned
 ## Layout
 
 ```
-dataset/    65 .jpg images, 65 .txt captions, metadata.csv
+halloween/    65 .jpg images, 65 .txt captions, metadata.csv
 configs/    AI Toolkit configs
 ```
 
@@ -15,7 +15,7 @@ configs/    AI Toolkit configs
 ## Train
 
 1. Clone AI Toolkit and check out the commit above.
-2. In the config, set `folder_path` to the absolute path of `dataset/` and `training_folder` to your output directory.
+2. In the config, set `folder_path` to the absolute path of `halloween/` and `training_folder` to your output directory.
 3. From the AI Toolkit root, run:
 
 ```
@@ -24,6 +24,6 @@ python run.py configs/klein-vqx-shift4k-cosine.yaml
 
 ## Image sources
 
-49 images come from The Public Domain Review and 16 from Wikimedia Commons. `dataset/metadata.csv` lists the source page and license for each image.
+49 images come from The Public Domain Review and 16 from Wikimedia Commons. `halloween/metadata.csv` lists the source page and license for each image.
 
 Trained weights will be attached to a release later.
