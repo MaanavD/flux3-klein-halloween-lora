@@ -1,6 +1,7 @@
 gradio==6.30.0
 spaces==0.51.3
 torch==2.13.0
+torchvision==0.28.0
 diffusers==0.42.0
 transformers==5.5.3
 peft==0.19.1
@@ -9,3 +10,4 @@ huggingface-hub==1.33.0
 safetensors==0.8.0
 Pillow==12.3.0
 numpy==2.5.4
+openai==3.39.0
