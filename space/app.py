@@ -17,7 +17,7 @@ PIPE = build_pipeline() if os.environ.get("SPACE_ID") and not UI_ONLY else None
 @spaces.GPU(duration=120)
 def render(prompt, seed, strength, checkpoint):
     if PIPE is None:
-        raise gr.Error("This local preview shows the controls. Run on a CUDA GPU to make a card.")
+        raise gr.Error("You can try the controls here. Run on a CUDA GPU to make a card.")
     return generate_image(PIPE, prompt, seed, strength, checkpoint)
 
 
@@ -35,18 +35,18 @@ def make_card(subject, expand, full_prompt, seed, strength, checkpoint):
             prompt = upsample(subject)
         except Exception as error:
             print(f"Upsampling failed: {error}")
-            raise gr.Error("The prompt upsampler is unavailable. Please retry, or turn off Expand my prompt.") from error
+            raise gr.Error("The prompt upsampler is unavailable. Try again, or turn off Expand my prompt.") from error
     return render(prompt, seed, strength, checkpoint), prompt
 
 
 with gr.Blocks(title="Make a Halloween card") as demo:
-    gr.Markdown("# Make a Halloween card\nDescribe a scene and turn it into a hand-drawn Halloween greeting with FLUX 3 Image Klein.")
+    gr.Markdown("# Make a Halloween card\nDescribe what you want on your card. FLUX 3 Image Klein makes it into a hand-drawn Halloween greeting.")
     with gr.Row():
         with gr.Column():
-            subject = gr.Textbox(label="What is on your card?", placeholder="A black cat watching the moon from a pumpkin patch", lines=4)
+            subject = gr.Textbox(label="Your scene", placeholder="A black cat watching the moon from a pumpkin patch", lines=4)
             expand = gr.Checkbox(label="Expand my prompt", value=True, visible=bool(PUP_URL))
             with gr.Accordion("Advanced", open=False):
-                full_prompt = gr.Textbox(label="Full prompt override", placeholder="Leave blank to use your subject with the vqx card prompt.", lines=5)
+                full_prompt = gr.Textbox(label="Full prompt", placeholder="Use your own prompt here, including vqx. Leave blank to use your scene with the card prompt.", lines=5)
                 seed = gr.Number(label="Seed", value=23, precision=0, minimum=0, maximum=2**32 - 1)
                 strength = gr.Slider(label="LoRA strength", minimum=0, maximum=1.5, value=1.0, step=0.05)
                 checkpoint = gr.Dropdown(label="Checkpoint", choices=list(CHECKPOINTS), value="constant_with_warmup")

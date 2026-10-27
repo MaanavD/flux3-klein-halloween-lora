@@ -1,8 +1,8 @@
 # FLUX 3 Image Klein Halloween postcard LoRA
 
-A LoRA training set of 65 Halloween postcards from about 1900 to 1920, captioned with the trigger word `vqx`, plus the configs to train it on FLUX 3 Image Klein with [AI Toolkit](https://github.com/ostris/ai-toolkit) by ostris at commit `04733873cf1da8060fce01316ec45daedbd4a918`.
+I trained this LoRA on 65 Halloween postcards from about 1900 to 1920. The set uses the trigger word `vqx`. The configs train it on Klein with [AI Toolkit](https://github.com/ostris/ai-toolkit) by ostris at commit `04733873cf1da8060fce01316ec45daedbd4a918`.
 
-## Layout
+## Files
 
 ```
 halloween/             65 .jpg images, 65 .txt captions, metadata.csv
@@ -18,11 +18,11 @@ space/                 the Hugging Face Space app
 
 ## Train
 
-Follow the [training notebook](halloween_lora.ipynb) for a step-by-step walkthrough.
+Start with the [training notebook](halloween_lora.ipynb).
 
 1. Clone AI Toolkit and check out the commit above.
 2. In the config, set `folder_path` to the absolute path of `halloween/` and `training_folder` to your output directory.
-3. From the AI Toolkit root, run:
+3. Run this from the AI Toolkit root.
 
 ```
 python run.py configs/halloween-lora-cosine.yaml
@@ -34,7 +34,7 @@ python run.py configs/halloween-lora-cosine.yaml
 
 ## Make a card
 
-The two checkpoints from the guide (cosine and constant_with_warmup, both at step 2,000) are in the [checkpoints-2000 release](https://github.com/MaanavD/flux3-klein-halloween-lora/releases/tag/checkpoints-2000). From the AI Toolkit root, with its venv active:
+My favorites were cosine and constant_with_warmup, both at step 2,000. Both checkpoints from the guide are in the [checkpoints-2000 release](https://github.com/MaanavD/flux3-klein-halloween-lora/releases/tag/checkpoints-2000). Run this from the AI Toolkit root, with its venv active.
 
 ```bash
 python /path/to/scripts/make_card.py --lora klein-vqx-shift4k-cosine_000002000.safetensors \
@@ -42,10 +42,10 @@ python /path/to/scripts/make_card.py --lora klein-vqx-shift4k-cosine_000002000.s
   --out card.jpg
 ```
 
-It renders at 1024 x 1024, 50 steps, guidance 3.5, LoRA strength 1. Change `--strength`, `--seed` or `--steps` to taste.
+The script makes a 1024 x 1024 card with 50 steps, guidance 3.5 and LoRA strength 1. Change `--strength`, `--seed` or `--steps` to taste.
 
 Or make one in the browser with the [Hugging Face Space](https://huggingface.co/spaces/black-forest-labs/flux3-klein-halloween-card). Its code is in `space/`.
 
 ## Make your own
 
-`ukiyoe/` holds 156 ukiyo-e prints from the Art Institute of Chicago, all public domain, captioned with the trigger word `ukiyobw`. See [ukiyoe/README.md](ukiyoe/README.md) for sources and checksums.
+One set I'm trying next is 156 ukiyo-e prints from the Art Institute of Chicago, all public domain. They're in `ukiyoe/`, captioned with the trigger word `ukiyobw`. See [ukiyoe/README.md](ukiyoe/README.md) for sources and checksums.

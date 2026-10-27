@@ -43,9 +43,9 @@ ASTRONAUTS = PROMPT_PREFIX + 'two astronauts sharing lunch at a table inside a l
 def resolve_prompt(subject: str, full_prompt: str = "") -> str:
     prompt = full_prompt.strip() or (PROMPT_PREFIX + subject.strip() if subject.strip() else "")
     if not prompt:
-        raise ValueError("Describe what you would like on your card.")
+        raise ValueError("Describe what you want on your card.")
     if len(prompt) > 6000:
-        raise ValueError("Please keep the prompt under 6,000 characters.")
+        raise ValueError("Keep the prompt under 6,000 characters.")
     return prompt
 
 
@@ -66,15 +66,15 @@ def upsample(subject: str) -> str:
     )
     caption = (completion.choices[0].message.content or "").strip()
     if not caption:
-        raise RuntimeError("The prompt upsampler returned an empty caption.")
+        raise RuntimeError("The prompt upsampler returned a blank caption.")
     return TRIGGER + caption
 
 
 def validate_settings(seed, strength, checkpoint):
     if not isinstance(seed, (int, float)) or not math.isfinite(seed) or int(seed) != seed or not 0 <= seed <= 2**32 - 1:
-        raise ValueError("Choose a whole seed from 0 to 4,294,967,295.")
+        raise ValueError("Choose a whole number for the seed, from 0 to 4,294,967,295.")
     if not isinstance(strength, (int, float)) or not math.isfinite(strength) or not 0 <= strength <= 1.5:
-        raise ValueError("Choose a strength from 0 to 1.5.")
+        raise ValueError("Choose a LoRA strength from 0 to 1.5.")
     if checkpoint not in CHECKPOINTS:
         raise ValueError("Choose one of the two checkpoints.")
     return int(seed), float(strength)
@@ -85,13 +85,13 @@ def verify_checkpoint(path: Path, checkpoint: str) -> Path:
     with path.open("rb") as file:
         digest = hashlib.file_digest(file, "sha256").hexdigest()
     if digest != expected:
-        raise ValueError(f"The {checkpoint} checkpoint does not match the inspected release asset: {path}")
+        raise ValueError(f"The {checkpoint} checkpoint does not match the inspected release file at {path}")
     return path
 
 
 def checkpoint_path(checkpoint: str, source: str = LORA_SOURCE) -> Path:
     if not source:
-        raise ValueError("Set HALLOWEEN_LORA_SOURCE to the weights location before generating cards.")
+        raise ValueError("Set HALLOWEEN_LORA_SOURCE to the weights location before making cards.")
     filename = CHECKPOINTS[checkpoint][0]
     local = Path(source).expanduser()
     if local.is_dir():
@@ -107,7 +107,7 @@ def checkpoint_path(checkpoint: str, source: str = LORA_SOURCE) -> Path:
                 while chunk := response.read(1024 * 1024):
                     output.write(chunk)
     elif "://" in source or source.startswith(("/", ".", "~")):
-        raise ValueError("The weights location must be an existing directory, HF repo ID, or HTTPS directory URL.")
+        raise ValueError("For the weights location, use an existing directory, HF repo ID, or HTTPS directory URL.")
     else:
         path = Path(hf_hub_download(repo_id=source, filename=filename, token=os.getenv("HF_TOKEN")))
     return verify_checkpoint(path, checkpoint)

@@ -1,6 +1,6 @@
 """Make a Halloween card with FLUX 3 Image Klein and a LoRA checkpoint.
 
-Run from the root of an AI Toolkit checkout (with its venv active):
+Run this from the AI Toolkit root, with its venv active.
   python /path/to/make_card.py --lora halloween-lora_000002000.safetensors \
     --prompt 'vqx, an old Halloween greeting card with a hand-drawn illustration of ...' --out card.jpg
 """
@@ -12,14 +12,14 @@ from toolkit.config_modules import GenerateImageConfig, ModelConfig, NetworkConf
 from toolkit.lora_special import LoRASpecialNetwork
 
 p = argparse.ArgumentParser()
-p.add_argument("--lora", required=True, help="path to a .safetensors checkpoint")
-p.add_argument("--prompt", required=True, help="start it with the trigger word, vqx")
+p.add_argument("--lora", required=True, help="path to your .safetensors checkpoint")
+p.add_argument("--prompt", required=True, help="start your prompt with the trigger word, vqx")
 p.add_argument("--out", default="card.jpg")
 p.add_argument("--seed", type=int, default=23)
 p.add_argument("--strength", type=float, default=1.0)
 p.add_argument("--steps", type=int, default=50)
 p.add_argument("--guidance", type=float, default=3.5)
-p.add_argument("--rank", type=int, default=32, help="must match the trained LoRA")
+p.add_argument("--rank", type=int, default=32, help="use the rank you trained with")
 args = p.parse_args()
 
 sd = Flux3Model(device="cuda:0", dtype="bf16",
