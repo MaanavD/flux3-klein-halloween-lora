@@ -49,7 +49,7 @@ HALLOWEEN_LORA_SOURCE="$PWD/inspection/checkpoints" python app.py
 
 ## Controls
 
-The app puts your scene into `vqx, an old Halloween greeting card with a hand-drawn illustration of <subject>`. If you fill in Full prompt under Advanced, it uses that text exactly as entered instead. Include `vqx` yourself in a full prompt.
+The app puts your scene into `vqx, an old Halloween greeting card with a hand-drawn illustration of <subject>`. If you fill in Full prompt under Advanced, it uses that text as entered instead. Include `vqx` yourself in a full prompt.
 
 Under Advanced, you can change the seed (default 23), LoRA strength (0 to 1.5, default 1), and checkpoint (`constant_with_warmup` by default, or `cosine`). The scarecrow and astronaut examples use the exact prompts from the guide's “Use it” section, with the same checkpoints. The scarecrow uses cosine; the astronauts use constant_with_warmup. The app starts with constant_with_warmup selected.
 
