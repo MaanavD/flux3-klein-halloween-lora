@@ -1,5 +1,7 @@
 # FLUX 3 Image Klein Halloween postcard LoRA
 
+> This repo has moved to [MaanavD/flux3-klein-lora-guide](https://github.com/MaanavD/flux3-klein-lora-guide), which has the same files plus samples. This copy is archived.
+
 I trained this LoRA on 65 Halloween postcards from about 1900 to 1920. The set uses the trigger word `vqx`. The configs train it on Klein with [AI Toolkit](https://github.com/ostris/ai-toolkit) by ostris at commit `04733873cf1da8060fce01316ec45daedbd4a918`.
 
 ## Files
