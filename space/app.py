@@ -22,6 +22,8 @@ def render(prompt, seed, strength, checkpoint):
 
 
 def make_card(subject, expand, full_prompt, seed, strength, checkpoint):
+    # An untouched textbox inside a closed accordion arrives as None.
+    subject, full_prompt = subject or "", full_prompt or ""
     try:
         prompt = resolve_prompt(subject, full_prompt)
         seed, strength = validate_settings(seed, strength, checkpoint)
